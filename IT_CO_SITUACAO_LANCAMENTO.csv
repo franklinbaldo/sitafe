@@ -1,4 +1,4 @@
-codigo,descricao
+it_co_situacao_lancamento,it_no_situacao_lancamento
 00,PAGO
 01,NAO PAGO
 02,PAGO A MENOR

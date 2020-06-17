@@ -1,0 +1,1329 @@
+it_co_receita,it_no_receita
+1112,ICMS Indústria Normal,1112 - ICMS Indústria Normal
+1118,ICMS Indústria Importação,1118 - ICMS Indústria Importação
+1125,ICMS Indústria Exportação,1125 - ICMS Indústria Exportação
+1131,ICMS Indústria Substituição tributária entrada,1131 - ICMS Indústria Substituição tributária entrada
+1145,ICMS Indústria Substituição tributária - saída,1145 - ICMS Indústria Substituição tributária - saída
+1154,ICMS Indústria Rondônia Simples MEE Faixa 1,1154 - ICMS Indústria Rondônia Simples MEE Faixa 1
+1156,ICMS Indústria Rondônia Simples EPP Faixa 1,1156 - ICMS Indústria Rondônia Simples EPP Faixa 1
+1158,ICMS Indústria Rondônia Simples EPP Faixa 2,1158 - ICMS Indústria Rondônia Simples EPP Faixa 2
+1212,ICMS Comércio Normal,1212 - ICMS Comércio Normal
+1218,ICMS Comércio Importação,1218 - ICMS Comércio Importação
+1225,ICMS Comércio Exportação,1225 - ICMS Comércio Exportação
+1231,ICMS Comércio Substituição tributária - entrada,1231 - ICMS Comércio Substituição tributária - entrada
+1245,ICMS Comércio Substituição tributária - saída,1245 - ICMS Comércio Substituição tributária - saída
+1254,ICMS Comércio Rondônia Simples MEE Faixa 1,1254 - ICMS Comércio Rondônia Simples MEE Faixa 1
+1256,ICMS Comércio Rondônia Simples EPP Faixa 1,1256 - ICMS Comércio Rondônia Simples EPP Faixa 1
+1258,ICMS Comércio Rondônia Simples EPP Faixa 2,1258 - ICMS Comércio Rondônia Simples EPP Faixa 2
+1311,ICMS Produto Primário Arroz,1311 - ICMS Produto Primário Arroz
+1312,ICMS Produto Primário Cacau,1312 - ICMS Produto Primário Cacau
+1313,ICMS Produto Primário Café,1313 - ICMS Produto Primário Café
+1314,ICMS Produto Primário Castanha,1314 - ICMS Produto Primário Castanha
+1315,ICMS Produto Primário Banana,1315 - ICMS Produto Primário Banana
+1316,ICMS Produto Primário Feijão,1316 - ICMS Produto Primário Feijão
+1317,ICMS Produto Primário Milho,1317 - ICMS Produto Primário Milho
+1318,ICMS Produto Primário Soja,1318 - ICMS Produto Primário Soja
+1319,ICMS Produto Primário Outros,1319 - ICMS Produto Primário Outros
+1321,ICMS Produto Primário Pecuária Bovinos,1321 - ICMS Produto Primário Pecuária Bovinos
+1322,ICMS Produto Primário Pecuária Suínos,1322 - ICMS Produto Primário Pecuária Suínos
+1323,ICMS Produto Primário Pecuária Caprinos,1323 - ICMS Produto Primário Pecuária Caprinos
+1324,ICMS Produto Primário Pecuária Ovinos,1324 - ICMS Produto Primário Pecuária Ovinos
+1325,ICMS Produto Primário Pecuária Outros,1325 - ICMS Produto Primário Pecuária Outros
+1330,ICMS Produto Primário Piscicultura,1330 - ICMS Produto Primário Piscicultura
+1340,ICMS Produto Primário Avicultura,1340 - ICMS Produto Primário Avicultura
+1351,ICMS Produto Primário Extr. Mineral Cassiterita,1351 - ICMS Produto Primário Extr. Mineral Cassiterita
+1352,ICMS Produto Primário Extr. Minera l Ouro,1352 - ICMS Produto Primário Extr. Minera l Ouro
+1353,ICMS Produto Primário Extr. Minera l Pedras preciosas,1353 - ICMS Produto Primário Extr. Minera l Pedras preciosas
+1354,ICMS Produto Primário Extr. Minera l Outros,1354 - ICMS Produto Primário Extr. Minera l Outros
+1361,ICMS Produto Primário Extr. Vegeta l Borracha,1361 - ICMS Produto Primário Extr. Vegeta l Borracha
+1362,ICMS Produto Primário Extr. Vegeta l Madeira,1362 - ICMS Produto Primário Extr. Vegeta l Madeira
+1370,ICMS Outros produtos primários,1370 - ICMS Outros produtos primários
+1380,ICMS Produto Primário Importação,1380 - ICMS Produto Primário Importação
+1390,ICMS Produto Primário Exportação,1390 - ICMS Produto Primário Exportação
+1414,ICMS Serviço de Transporte Cargas,1414 - ICMS Serviço de Transporte Cargas
+1426,ICMS Serviço de Transporte Passageiros,1426 - ICMS Serviço de Transporte Passageiros
+1433,ICMS Serviço de Transporte Valores,1433 - ICMS Serviço de Transporte Valores
+1448,ICMS Serviço de Transporte Outros,1448 - ICMS Serviço de Transporte Outros
+1451,ICMS Serviço de Transporte Autônomo,1451 - ICMS Serviço de Transporte Autônomo
+1512,ICMS Combustível e Lubrificantes Normal,1512 - ICMS Combustível e Lubrificantes Normal
+1531,ICMS Combustível e Lubrificantes Substituição Tributária - Entrada,1531 - ICMS Combustível e Lubrificantes Substituição Tributária - Entrada
+1545,ICMS Combustível e Lubrificantes Substituição Tributária - saída,1545 - ICMS Combustível e Lubrificantes Substituição Tributária - saída
+1627,ICMS Serviço de Comunicação,1627 - ICMS Serviço de Comunicação
+1635,ICMS Serviço de Energia elétrica,1635 - ICMS Serviço de Energia elétrica
+1648,ICMS Termo de depósito,1648 - ICMS Termo de depósito
+1657,ICMS Diferencial de Alíquota Produtor Rural,1657 - ICMS Diferencial de Alíquota Produtor Rural
+1658,ICMS Antecipado,1658 - ICMS Antecipado
+1659,ICMS Diferencial de Alíquota Simples Nacional,1659 - ICMS Diferencial de Alíquota Simples Nacional
+1660,ICMS Diferencial de Alíquota Uso e Consumo,1660 - ICMS Diferencial de Alíquota Uso e Consumo
+1661,ICMS Diferencial de Alíquota Ativo Permanente,1661 - ICMS Diferencial de Alíquota Ativo Permanente
+1662,ICMS Denúncia espontânea,1662 - ICMS Denúncia espontânea
+1663,ICMS Diferencial de Alíquota Álcool Protocolo ICMS 17/2004.,1663 - ICMS Diferencial de Alíquota Álcool Protocolo ICMS 17/2004.
+1664,"ICMS Diferencial de Alíquota Saída ""R""","1664 - ICMS Diferencial de Alíquota Saída ""R"""
+1665,"ICMS Substituição Antecipada ""R""","1665 - ICMS Substituição Antecipada ""R"""
+1666,"ICMS Termo de Depósito Antecipado ""R""","1666 - ICMS Termo de Depósito Antecipado ""R"""
+1712,ICMS Parcelamento de Imposto Declarado,1712 - ICMS Parcelamento de Imposto Declarado
+1736,ICMS Parcelamento de Denúncia Espontânea,1736 - ICMS Parcelamento de Denúncia Espontânea
+1742,ICMS Parcelamento Substituição Tributária - Entrada,1742 - ICMS Parcelamento Substituição Tributária - Entrada
+1745,ICMS Parcelamento de Auto de Infração,1745 - ICMS Parcelamento de Auto de Infração
+1758,ICMS Parcelamento Antecipado,1758 - ICMS Parcelamento Antecipado
+1759,"ICMS Parcelamento d e AI Multa Acessória ""R"" .","1759 - ICMS Parcelamento d e AI Multa Acessória ""R"" ."
+1760,"ICMS Parcelamento Produtos Primários ""R""","1760 - ICMS Parcelamento Produtos Primários ""R"""
+1761,"ICMS Parcelamento Industria""R""","1761 - ICMS Parcelamento Industria""R"""
+1762,"ICMS Parcelamento Comércio""R""","1762 - ICMS Parcelamento Comércio""R"""
+1812,ICMS Auto d e Infração Fiscalização em Estabelecimentos,1812 - ICMS Auto d e Infração Fiscalização em Estabelecimentos
+1819,ICMS Auto de Infração Fiscalização volante,1819 - ICMS Auto de Infração Fiscalização volante
+1823,ICMS Auto d e Infração Fiscalização em Posto Fiscal,1823 - ICMS Auto d e Infração Fiscalização em Posto Fiscal
+1835,Multa por descumprimento de obrigação Acessória,1835 - Multa por descumprimento de obrigação Acessória
+1840,Auto de Infração de Multa por descumprimento de Obrigação Acessória,1840 - Auto de Infração de Multa por descumprimento de Obrigação Acessória
+2120,IPVA,2120 - IPVA
+2123,Cotas de IPVA,2123 - Cotas de IPVA
+2245,Parcelamento de IPVA,2245 - Parcelamento de IPVA
+2350,Multa Auto de Infração de IPVA,2350 - Multa Auto de Infração de IPVA
+2351,Auto de Infração de IPVA,2351 - Auto de Infração de IPVA
+2363,Parcelamento Multa de Auto de Infração de IPVA,2363 - Parcelamento Multa de Auto de Infração de IPVA
+2464,Parcelamento de Auto de Infração de IPVA,2464 - Parcelamento de Auto de Infração de IPVA
+2570,IPVA 1º Emplacamento,2570 - IPVA 1º Emplacamento
+3112,ITCD,3112 - ITCD
+3226,Parcelamento ITCD,3226 - Parcelamento ITCD
+3341,Auto de Infração ITCD,3341 - Auto de Infração ITCD
+3429,Parcelamento Auto de Infração ITCD,3429 - Parcelamento Auto de Infração ITCD
+3997,Multa ITCD,3997 - Multa ITCD
+4112,Contribuição Melhoria,4112 - Contribuição Melhoria
+4226,Parcelamento Contribuição de Melhoria,4226 - Parcelamento Contribuição de Melhoria
+5112,Divida Ativa ICMS (DECLARADO e LANÇADO),5112 - Divida Ativa ICMS (DECLARADO e LANÇADO)
+5115,Divida Ativa Auto de Infração de ICMS,5115 - Divida Ativa Auto de Infração de ICMS
+5119,Divida Ativa ICMS (DECL. E LANÇADO).,5119 - Divida Ativa ICMS (DECL. E LANÇADO).
+5122,Divida Ativa de Auto de Infração de ICMS,5122 - Divida Ativa de Auto de Infração de ICMS
+5131,Parcelamento de Divida Ativa de ICMS,5131 - Parcelamento de Divida Ativa de ICMS
+5132,Parcelamento de Divida Ativa de ICMS Antecipado,5132 - Parcelamento de Divida Ativa de ICMS Antecipado
+5134,Parcelamento de Divida Ativa de Auto de Infração ICMS,5134 - Parcelamento de Divida Ativa de Auto de Infração ICMS
+5135,Divida Ativa de Multa de Auto de Infração de ICMS,5135 - Divida Ativa de Multa de Auto de Infração de ICMS
+5136,Parcelamento de Divida Ativa de Multa de Auto de Infração de ICMS,5136 - Parcelamento de Divida Ativa de Multa de Auto de Infração de ICMS
+5140,Divida Ativa de Multa de Auto de Infração de ICMS Obrigação Acessória,5140 - Divida Ativa de Multa de Auto de Infração de ICMS Obrigação Acessória
+5141,Parc . Div A t. de Multa de Auto de Infração de ICMS Obrigação Acessória,5141 - Parc . Div A t. de Multa de Auto de Infração de ICMS Obrigação Acessória
+5144,Parcelamento de Divida Ativa de Auto de Infração de ICMS,5144 - Parcelamento de Divida Ativa de Auto de Infração de ICMS
+5158,Divida Ativa de ICMS Antecipado,5158 - Divida Ativa de ICMS Antecipado
+5218,Dívida Ativa de IPVA,5218 - Dívida Ativa de IPVA
+5226,Dívida Ativa Auto de Infração de IPVA,5226 - Dívida Ativa Auto de Infração de IPVA
+5231,Dívida Ativa Multa Auto de Infração de IPVA,5231 - Dívida Ativa Multa Auto de Infração de IPVA
+5243,Parcelamento Dívida Ativa de IPVA,5243 - Parcelamento Dívida Ativa de IPVA
+5248,Parcelamento Dívida Ativa de Auto de Infração de IPVA,5248 - Parcelamento Dívida Ativa de Auto de Infração de IPVA
+5254,Parcelamento Dívida Ativa de Multa de Auto de Infração de IPVA,5254 - Parcelamento Dívida Ativa de Multa de Auto de Infração de IPVA
+5314,Divida Ativa de ITCD,5314 - Divida Ativa de ITCD
+5327,Div ida Ativa Auto de Infração de ITCD,5327 - Div ida Ativa Auto de Infração de ITCD
+5331,Divida Ativa de ITCD ajuizado,5331 - Divida Ativa de ITCD ajuizado
+5339,Divida Ativa Auto de Infração ITCD,5339 - Divida Ativa Auto de Infração ITCD
+5345,Parcelamento ITCD não ajuizado,5345 - Parcelamento ITCD não ajuizado
+5352,Parcelamento Auto de Infração de ITCD,5352 - Parcelamento Auto de Infração de ITCD
+5360,Parcelamento ITCD ajuizado,5360 - Parcelamento ITCD ajuizado
+5412,Divida Ativa de Contribuição de Melhoria,5412 - Divida Ativa de Contribuição de Melhoria
+5441,Divida Ativa Contribuição de Melhoria,5441 - Divida Ativa Contribuição de Melhoria
+5456,Parcelamento Contribuição Melhoria,5456 - Parcelamento Contribuição Melhoria
+5502,Dívida Ativa não Tributária,5502 - Dívida Ativa não Tributária
+5508,Dívida Ativa não Tributária TJ/RO,5508 - Dívida Ativa não Tributária TJ/RO
+5510,Dívida Ativa não Tributária Custas Processuais,5510 - Dívida Ativa não Tributária Custas Processuais
+5511,Dívida Ativa não Tributária Multa do Tribunal de Contas,5511 - Dívida Ativa não Tributária Multa do Tribunal de Contas
+5512,Dívida Ativa não Tributária Ressarcimento Glosa TCR/RO,5512 - Dívida Ativa não Tributária Ressarcimento Glosa TCR/RO
+5513,Dívida Ativa não Tributária Saúde,5513 - Dívida Ativa não Tributária Saúde
+5514,Dívida Ativa não Tributária Meio Ambiente,5514 - Dívida Ativa não Tributária Meio Ambiente
+5515,Dívida Ativa não Tributária IDARON,5515 - Dívida Ativa não Tributária IDARON
+5516,Dívida Ativa não Tributária Ressarcimento TJ/RO,5516 - Dívida Ativa não Tributária Ressarcimento TJ/RO
+5520,Dívida Ativa não Tributária BOMBEIROS,5520 - Dívida Ativa não Tributária BOMBEIROS
+5602,PARC. Dívida Ativa não Tributária,5602 - PARC. Dívida Ativa não Tributária
+5610,PARC. Dívida Ativa não Tributária Custas P rocessuais,5610 - PARC. Dívida Ativa não Tributária Custas P rocessuais
+5611,PARC. Dívida Ativa não Tributária Multa do TCR,5611 - PARC. Dívida Ativa não Tributária Multa do TCR
+5612,PARC. Dívida Ativa não Tributária Ressarcimento Glosa TCR,5612 - PARC. Dívida Ativa não Tributária Ressarcimento Glosa TCR
+5613,PARC. Dívida Ativa não Tributária Saúde,5613 - PARC. Dívida Ativa não Tributária Saúde
+5614,PARC. Dívida Ativa não Tributária Meio Ambiente,5614 - PARC. Dívida Ativa não Tributária Meio Ambiente
+5615,PARC. Dívida Ativa não Tributária IDARON,5615 - PARC. Dívida Ativa não Tributária IDARON
+5616,PARC. Dívida Ativa não Tributária Ressarcimento TJ/RO,5616 - PARC. Dívida Ativa não Tributária Ressarcimento TJ/RO
+5517,TJ-RO Dívida Ativa Custas Extra -Judiciais,5517 - TJ-RO Dívida Ativa Custas Extra -Judiciais
+5518,TJ-RO Dívida Ativa Penalidade Pecuniária,5518 - TJ-RO Dívida Ativa Penalidade Pecuniária
+6120,Taxa de serviço da administração fazendária,6120 - Taxa de serviço da administração fazendária
+6127,Taxa ambiental,6127 - Taxa ambiental
+6135,Taxa florestal,6135 - Taxa florestal
+6146,Taxa de saúde pública,6146 - Taxa de saúde pública
+6152,Taxa de segurança pública,6152 - Taxa de segurança pública
+6164,Taxa de edição gráfica - imprensa oficial,6164 - Taxa de edição gráfica - imprensa oficial
+6169,Taxa para aquisição de edita l de licitação,6169 - Taxa para aquisição de edita l de licitação
+6175,Taxa SETRAPS - bem estar do menor,6175 - Taxa SETRAPS - bem estar do menor
+6183,Taxa da Secretaria de educação e cultura,6183 - Taxa da Secretaria de educação e cultura
+6187,Taxas outras taxas,6187 - Taxas outras taxas
+6300,FIDER - Fundo de Desenvolvimento Industrial de Rondônia,6300 - FIDER - Fundo de Desenvolvimento Industrial de Rondônia
+6301,FITHA - Fundo para a Infra-Estrutura de Transporte e Habitação,6301 - FITHA - Fundo para a Infra-Estrutura de Transporte e Habitação
+6302,FGPPP - Fundo Garantidor de Parcerias Público-Privadas,6302 - FGPPP - Fundo Garantidor de Parcerias Público-Privadas
+7124,Receita patrimonial,7124 - Receita patrimonial
+7136,Receita industrial,7136 - Receita industrial
+7149,Receita de transporte rodoviário,7149 - Receita de transporte rodoviário
+7156,Receita de transporte hidroviário,7156 - Receita de transporte hidroviário
+7160,Receita d e serviços hospitalares,7160 - Receita d e serviços hospitalares
+7163,Receita de serviços de processamento de dados,7163 - Receita de serviços de processamento de dados
+7169,Multa da secretaria de saúde - SESAU,7169 - Multa da secretaria de saúde - SESAU
+7180,Multas diversas,7180 - Multas diversas
+7185,Receitas de indenizações,7185 - Receitas de indenizações
+7187,Receitas de restituição,7187 - Receitas de restituição
+7192,Alienação de mercadorias apreendidas,7192 - Alienação de mercadorias apreendidas
+7213,Alienação de bens móveis,7213 - Alienação de bens móveis
+7225,Alienação de bens imóveis,7225 - Alienação de bens imóveis
+7239,Outras receitas de capital,7239 - Outras receitas de capital
+7245,Consignações diversas,7245 - Consignações diversas
+7256,Cauções contratuais,7256 - Cauções contratuais
+7260,Devolução suprimento de fundos e diárias,7260 - Devolução suprimento de fundos e diárias
+7268,Outras receitas não especificadas,7268 - Outras receitas não especificadas
+7310,BERON - Banco do Estado de Rondônia S/A,7310 - BERON - Banco do Estado de Rondônia S/A
+7320,RONDONPOUP - Rondônia Crédito Imobiliário S/A,7320 - RONDONPOUP - Rondônia Crédito Imobiliário S/A
+7330,CDHUR - Companhia de Desenvolvimento Urbano e Rural de Rondônia,7330 - CDHUR - Companhia de Desenvolvimento Urbano e Rural de Rondônia
+7340,CEPRORD - Companhia de Processamento de Dados do Estado de Rondônia,7340 - CEPRORD - Companhia de Processamento de Dados do Estado de Rondônia
+7350,"CAGERO - Companhia de Abastecimento , Armazéns Gerais e Entrepostos de Rondônia","7350 - CAGERO - Companhia de Abastecimento , Armazéns Gerais e Entrepostos de Rondônia"
+7360,ENARO - Em presa de Navegação de Rondônia S/A,7360 - ENARO - Em presa de Navegação de Rondônia S/A
+7370,LOTORO - Loteria Estadual de Rondônia,7370 - LOTORO - Loteria Estadual de Rondônia
+8010,IRRF de servidores do Estado,8010 - IRRF de servidores do Estado
+8011,IRRF de servidores do Ministério Público,8011 - IRRF de servidores do Ministério Público
+8012,IRRF de servidores da ALE,8012 - IRRF de servidores da ALE
+8013,IRRF de servidores do T J,8013 - IRRF de servidores do T J
+8014,IRRF de servidores do TCE-RO,8014 - IRRF de servidores do TCE-RO
+8025,IRRF de pessoa Física não servidor,8025 - IRRF de pessoa Física não servidor
+8036,IRRF de pessoa Jurídica,8036 - IRRF de pessoa Jurídica
+8101,JUCER - Atos de Empresário (Inscrição /Alteração/ Extinção),8101 - JUCER - Atos de Empresário (Inscrição /Alteração/ Extinção)
+8102,JUCER - Via Adicional de Atos de Empresário,8102 - JUCER - Via Adicional de Atos de Empresário
+8103,"JUCER - Atos de Sociedade Empresária , Exceto as S /A","8103 - JUCER - Atos de Sociedade Empresária , Exceto as S /A"
+8104,"JUCER - Via Adicional de Atos de Sociedade Empresária , exceto as S /A","8104 - JUCER - Via Adicional de Atos de Sociedade Empresária , exceto as S /A"
+8105,JUCER - Atos de Sociedade Por Ações e Empresa Pública,8105 - JUCER - Atos de Sociedade Por Ações e Empresa Pública
+8106,JUCER - Via Adicional de Atos de Sociedade Por Ações e Empresa Pública,8106 - JUCER - Via Adicional de Atos de Sociedade Por Ações e Empresa Pública
+8107,JUCER - Atos de Cooperativas,8107 - JUCER - Atos de Cooperativas
+8108,JUCER - Via Adicional de Atos de Cooperativas,8108 - JUCER - Via Adicional de Atos de Cooperativas
+8109,JUCER - Atos de Consórcio e Grupo de Sociedades,8109 - JUCER - Atos de Consórcio e Grupo de Sociedades
+8110,JUCER - Via Adicional de Atos de Consórcio e Grupo de Sociedades,8110 - JUCER - Via Adicional de Atos de Consórcio e Grupo de Sociedades
+8111,JUCER - Atos de Proteção ao Nome Empresarial,8111 - JUCER - Atos de Proteção ao Nome Empresarial
+8112,JUCER - Via Adicional de Atos de Proteção ao Nome Empresarial,8112 - JUCER - Via Adicional de Atos de Proteção ao Nome Empresarial
+8113,JUCER - Documentos de Arquivamento . Obrigatório ou de Interesse da Sociedade Empresária /Empresário /Sócio,8113 - JUCER - Documentos de Arquivamento . Obrigatório ou de Interesse da Sociedade Empresária /Empresário /Sócio
+8114,JUCER - Documentos de Interesse de Leiloeiro/Tradutor Público lntérprete Comercial e Administrador de Armazém Geral,8114 - JUCER - Documentos de Interesse de Leiloeiro/Tradutor Público lntérprete Comercial e Administrador de Armazém Geral
+8115,JUCER - Via Adicional dos Documentos de Códigos 8113 e 8114,8115 - JUCER - Via Adicional dos Documentos de Códigos 8113 e 8114
+8116,JUCER - Atos de Leiloeiro/Tradutor. Público/Administrador de Armazém Gera l,8116 - JUCER - Atos de Leiloeiro/Tradutor. Público/Administrador de Armazém Gera l
+8117,JUCER - Pedido de Reconsideração,8117 - JUCER - Pedido de Reconsideração
+8118,JUCER - Recurso ao Plenário,8118 - JUCER - Recurso ao Plenário
+8119,JUCER - Pesquisa de Nome Empresarial Idêntico ou Semelhante,8119 - JUCER - Pesquisa de Nome Empresarial Idêntico ou Semelhante
+8120,JUCER - Consulta a Documentos,8120 - JUCER - Consulta a Documentos
+8121,JUCER - Certidão Simplificada,8121 - JUCER - Certidão Simplificada
+8122,JUCER - Via Adicional de Certidão Simplificada,8122 - JUCER - Via Adicional de Certidão Simplificada
+8123,JUCER - Adicional Por Entrega Via Postal da Certidão Simplificada,8123 - JUCER - Adicional Por Entrega Via Postal da Certidão Simplificada
+8124,JUCER - Certidão de Inteiro Teor Tipo Empresário,8124 - JUCER - Certidão de Inteiro Teor Tipo Empresário
+8125,"JUCER - Certidão de Inteiro Teor Tipo Sociedades Empresárias, exceto as S/A","8125 - JUCER - Certidão de Inteiro Teor Tipo Sociedades Empresárias, exceto as S/A"
+8126,JUCER - Certidão de Inteiro Teor Tipo Sociedades Por Ações e Em presa Pública,8126 - JUCER - Certidão de Inteiro Teor Tipo Sociedades Por Ações e Em presa Pública
+8127,JUCER - Certidão de Inteiro Teor Tipo Cooperativa.,8127 - JUCER - Certidão de Inteiro Teor Tipo Cooperativa.
+8128,JUCER - Adiciona l Por Entrega Via Postal de Certidão de Inteiro Teor,8128 - JUCER - Adiciona l Por Entrega Via Postal de Certidão de Inteiro Teor
+8129,JUCER - Certidão Específica,8129 - JUCER - Certidão Específica
+8130,JUCER - Via Adicional de Certidão Específica,8130 - JUCER - Via Adicional de Certidão Específica
+8131,JUCER - Adiciona l Por Entrega Via Postal da Certidão Específica,8131 - JUCER - Adiciona l Por Entrega Via Postal da Certidão Específica
+8132,JUCER - Autenticação de Instrumentos de Escrituração de Empresário/ Sociedade Empresaria e de Leiloeiro/Tradutor Público/Administrador de Armazém Geral,8132 - JUCER - Autenticação de Instrumentos de Escrituração de Empresário/ Sociedade Empresaria e de Leiloeiro/Tradutor Público/Administrador de Armazém Geral
+8133,JUCER - Expedição de C arteira de Exercício Profissional,8133 - JUCER - Expedição de C arteira de Exercício Profissional
+8134,"JUCER - Atos de Transformação, Incorporação, Fusão e Cisão","8134 - JUCER - Atos de Transformação, Incorporação, Fusão e Cisão"
+8135,JUCER - Registro de Escritura de Emissão de Debêntures,8135 - JUCER - Registro de Escritura de Emissão de Debêntures
+8136,JUCER - Serviços Integrados Com Outras Juntas Comerciais,8136 - JUCER - Serviços Integrados Com Outras Juntas Comerciais
+8137,JUCER - Informações do Cadastro Estadual de Empresas Mercantis,8137 - JUCER - Informações do Cadastro Estadual de Empresas Mercantis
+8138,JUCER - Serviços de Divulgação,8138 - JUCER - Serviços de Divulgação
+8139,JUCER - REDESIM,8139 - JUCER - REDESIM
+8146,JUCER - Código Reserva,8146 - JUCER - Código Reserva
+8301,"IDARON - FESA - Abate Bov/Bub Macho (7,5% Upf) e Fêmea (5,0% Upf) por Cabeça","8301 - IDARON - FESA - Abate Bov/Bub Macho (7,5% Upf) e Fêmea (5,0% Upf) por Cabeça"
+8302,IDARON - GTA - Comercialização Bov/Bib/Ovi/Cap/Sui,8302 - IDARON - GTA - Comercialização Bov/Bib/Ovi/Cap/Sui
+8303,IDARON - GTA - Comerc. Bov/Bub/Ovi/Cap/Sui Tang,8303 - IDARON - GTA - Comerc. Bov/Bub/Ovi/Cap/Sui Tang
+8304,IDARON - GTA - Comerc. Bov/Bub/Ovi/Cap/Sui,8304 - IDARON - GTA - Comerc. Bov/Bub/Ovi/Cap/Sui
+8305,IDARON - GTA - Aves Ornament/Felin.Can.Outros,8305 - IDARON - GTA - Aves Ornament/Felin.Can.Outros
+8306,IDARON - GTA - A Cada 1000 Pintos de 1 Dia e Fr.,8306 - IDARON - GTA - A Cada 1000 Pintos de 1 Dia e Fr.
+8307,IDARON - FESA - Ind Frig Abate de B ov/Bub até 2.500 Cab/Mes,8307 - IDARON - FESA - Ind Frig Abate de B ov/Bub até 2.500 Cab/Mes
+8308,IDARON - FESA - Vigilância Sanitária em Leilões,8308 - IDARON - FESA - Vigilância Sanitária em Leilões
+8309,IDARON - Desinfecção por Veiculo Tipo Caminhão,8309 - IDARON - Desinfecção por Veiculo Tipo Caminhão
+8310,IDARON - Desinfecção por Veiculo Tipo Carreta,8310 - IDARON - Desinfecção por Veiculo Tipo Carreta
+8311,IDARON - Emissão de Certificado de Vacinação,8311 - IDARON - Emissão de Certificado de Vacinação
+8312,"IDARON - Cis Modelo ""E"" Por Subprodutos de Or.","8312 - IDARON - Cis Modelo ""E"" Por Subprodutos de Or."
+8313,IDARON - Certificado de Transito 1 a 10 C ouro,8313 - IDARON - Certificado de Transito 1 a 10 C ouro
+8314,IDARON - Certificado de Transito 11 a 50 C ouro,8314 - IDARON - Certificado de Transito 11 a 50 C ouro
+8315,IDARON - Certificado de Transito mais de 50 C,8315 - IDARON - Certificado de Transito mais de 50 C
+8316,IDARON - Multas A plicadas na Defesa Sanitária,8316 - IDARON - Multas A plicadas na Defesa Sanitária
+8318,IDARON - Multas A plicadas na Inspeção de Prod.,8318 - IDARON - Multas A plicadas na Inspeção de Prod.
+8319,IDARON - Multas A plicadas na Classificação,8319 - IDARON - Multas A plicadas na Classificação
+8320,IDARON - Credenciamento de Empresas de Evento,8320 - IDARON - Credenciamento de Empresas de Evento
+8321,IDARON - Registro e Licença de E stabelecimento,8321 - IDARON - Registro e Licença de E stabelecimento
+8322,IDARON - Expedição de Certidão para Cadastramento,8322 - IDARON - Expedição de Certidão para Cadastramento
+8323,IDARON - Taxa de Despesa de Transporte de Mat,8323 - IDARON - Taxa de Despesa de Transporte de Mat
+8324,IDARON - Autorização para Aquisição de Mudas,8324 - IDARON - Autorização para Aquisição de Mudas
+8325,IDARON - Certificado Fitosanitário de Origem,8325 - IDARON - Certificado Fitosanitário de Origem
+8326,IDARON - Atestado de Tratamento de Vegetais,8326 - IDARON - Atestado de Tratamento de Vegetais
+8327,IDARON - Atestado de Destruição de Restos Cul.,8327 - IDARON - Atestado de Destruição de Restos Cul.
+8328,IDARON - Cadastro de Viveiro,8328 - IDARON - Cadastro de Viveiro
+8329,IDARON - Amostra e Análise de Sem entes de Gr.,8329 - IDARON - Amostra e Análise de Sem entes de Gr.
+8330,IDARON - Análise ou Exame de Produtos Vegetais,8330 - IDARON - Análise ou Exame de Produtos Vegetais
+8331,IDARON - Amostra e Analise de Sem entes Forage,8331 - IDARON - Amostra e Analise de Sem entes Forage
+8332,IDARON - Atestado de Expurgo por Tonelada,8332 - IDARON - Atestado de Expurgo por Tonelada
+8333,IDARON - Permissão de Transito de Vegetais,8333 - IDARON - Permissão de Transito de Vegetais
+8334,IDARON - Credenciamento Comercial para Expurg.,8334 - IDARON - Credenciamento Comercial para Expurg.
+8335,IDARON - Cadastro Agrotóxico,8335 - IDARON - Cadastro Agrotóxico
+8336,IDARON - Registro de Em presas e Prestadores d.,8336 - IDARON - Registro de Em presas e Prestadores d.
+8337,IDARON - Vistoria para Verificação destruição,8337 - IDARON - Vistoria para Verificação destruição
+8338,IDARON - Alteração de Cadastro,8338 - IDARON - Alteração de Cadastro
+8339,IDARON - TESTE Tetrazólico,8339 - IDARON - TESTE Tetrazólico
+8340,IDARON - Cadastro de Estabelecimento Comercial,8340 - IDARON - Cadastro de Estabelecimento Comercial
+8341,IDARON - Renovação de Cadastro de Produto,8341 - IDARON - Renovação de Cadastro de Produto
+8342,IDARON - Renovação de Cadastro de Estabelecimento,8342 - IDARON - Renovação de Cadastro de Estabelecimento
+8343,IDARON - Classificação P revia com Emissão de Laudo,8343 - IDARON - Classificação P revia com Emissão de Laudo
+8344,IDARON - Taxa para Transporte de M ateria l Par,8344 - IDARON - Taxa para Transporte de M ateria l Par
+8345,"IDARON - FESA - Abate O vi/Cap/Sui - 5,0% Upf - por Lote ou F ração de 10 Cabeças","8345 - IDARON - FESA - Abate O vi/Cap/Sui - 5,0% Upf - por Lote ou F ração de 10 Cabeças"
+8346,IDARON - FESA - Ind Frig Abate de Bov/Bub de 2.501 a 5.000 Cab/Mes,8346 - IDARON - FESA - Ind Frig Abate de Bov/Bub de 2.501 a 5.000 Cab/Mes
+8347,IDARON - FESA - Ind Frig Abate de Bov/Bub de 5.001 a 10.000 Cab/Mes,8347 - IDARON - FESA - Ind Frig Abate de Bov/Bub de 5.001 a 10.000 Cab/Mes
+8348,IDARON - FESA - Ind Frig Abate de Bov/Bub de 10.001 a 15.000 Cab/Mes,8348 - IDARON - FESA - Ind Frig Abate de Bov/Bub de 10.001 a 15.000 Cab/Mes
+8349,IDARON - FESA - Ind Frig A bate de Bov/Bub acima de 15.000 Cab/Mes,8349 - IDARON - FESA - Ind Frig A bate de Bov/Bub acima de 15.000 Cab/Mes
+8350,"IDARON - FESA - Ind Frig A bate de Aves - 5,0% da Upf/RO por Lote ou Fração de 500 Aves","8350 - IDARON - FESA - Ind Frig A bate de Aves - 5,0% da Upf/RO por Lote ou Fração de 500 Aves"
+8351,IDARON - FESA - Multas,8351 - IDARON - FESA - Multas
+8352,IDARON - Dívida Ativa - Defesa Animal,8352 - IDARON - Dívida Ativa - Defesa Animal
+8353,IDARON - Dívida Ativa - Defesa Vegetal,8353 - IDARON - Dívida Ativa - Defesa Vegetal
+8354,IDARON - Dívida Ativa - Outros Créditos,8354 - IDARON - Dívida Ativa - Outros Créditos
+8355,IDARON - Dívida Ativa - Ações Judiciais,8355 - IDARON - Dívida Ativa - Ações Judiciais
+8356,IDARON - Código Reserva,8356 - IDARON - Código Reserva
+8401,SEAGRI - Programa Pró-Leite,8401 - SEAGRI - Programa Pró-Leite
+8402,SEAGRI - Funcafé,8402 - SEAGRI - Funcafé
+8470,PGE - Honorários Execução Fiscal,8470 - PGE - Honorários Execução Fiscal
+8480,TJ-RO - Custas Finais Execução Fiscal,8480 - TJ-RO - Custas Finais Execução Fiscal
+8490,DETRAN - Honorários Execução Fiscal,8490 - DETRAN - Honorários Execução Fiscal
+8430,DETRAN - Inclusão/Exclusão de Grevame,8430 - DETRAN - Inclusão/Exclusão de Grevame
+8431,DETRAN - Autorização Prévia para Laudo de ECV,8431 - DETRAN - Autorização Prévia para Laudo de ECV
+8432,DETRAN - Vistoria Eletrônica,8432 - DETRAN - Vistoria Eletrônica
+8433,DETRAN - Entrega Posta l de Documentos,8433 - DETRAN - Entrega Posta l de Documentos
+8434,DETRAN - Inscrição Curso de Formação Especializado em Trânsito - Formação Mototaxista ou Motofretista,8434 - DETRAN - Inscrição Curso de Formação Especializado em Trânsito - Formação Mototaxista ou Motofretista
+8435,DETRAN - Inscrição Curso de Formação Especializado em Trânsito - Formação MOPP,8435 - DETRAN - Inscrição Curso de Formação Especializado em Trânsito - Formação MOPP
+8436,DETRAN - Inscrição Curso de Formação Especializado em Trânsito - Formação em Transporte d e Passageiros,8436 - DETRAN - Inscrição Curso de Formação Especializado em Trânsito - Formação em Transporte d e Passageiros
+8437,DETRAN - Inscrição Curso de Formação Especializado em Trânsito - Formação em Transporte Escolar,8437 - DETRAN - Inscrição Curso de Formação Especializado em Trânsito - Formação em Transporte Escolar
+8438,DETRAN - Registro de Contratos com Garantia Fiduciária de Veículos,8438 - DETRAN - Registro de Contratos com Garantia Fiduciária de Veículos
+8439,DETRAN - Sistema Nacional de Identificação Automática de Veículos - S INIAV,8439 - DETRAN - Sistema Nacional de Identificação Automática de Veículos - S INIAV
+8440,DETRAN - Substituição da P laca Eletrônica do S INIAV,8440 - DETRAN - Substituição da P laca Eletrônica do S INIAV
+8441,DETRAN - Código Reserva,8441 - DETRAN - Código Reserva
+8501,DETRAN - 1º Emplacamento,8501 - DETRAN - 1º Emplacamento
+8502,DETRAN - 2ª via CRLV,8502 - DETRAN - 2ª via CRLV
+8503,DETRAN - 2ª via CRV,8503 - DETRAN - 2ª via CRV
+8504,DETRAN - Alienação Fiduciária,8504 - DETRAN - Alienação Fiduciária
+8505,DETRAN - Alteração de Características,8505 - DETRAN - Alteração de Características
+8506,DETRAN - Alteração de Dados Cadastrais/Correção da CRV,8506 - DETRAN - Alteração de Dados Cadastrais/Correção da CRV
+8507,DETRAN - Emissão de Via Original de CRLV,8507 - DETRAN - Emissão de Via Original de CRLV
+8508,DETRAN - Baixa de Veículos,8508 - DETRAN - Baixa de Veículos
+8509,DETRAN - Desalienação,8509 - DETRAN - Desalienação
+8510,DETRAN - Licenciamento Anua l por Exercício,8510 - DETRAN - Licenciamento Anua l por Exercício
+8511,DETRAN - Mudança de Município - Estado de Rondônia,8511 - DETRAN - Mudança de Município - Estado de Rondônia
+8512,DETRAN - Recadastramento Veículo não RENAVAM (Veículo de outra UF -02 letras),8512 - DETRAN - Recadastramento Veículo não RENAVAM (Veículo de outra UF -02 letras)
+8513,DETRAN - Recadastramento (Veíc . RENAVAM - 03 letras),8513 - DETRAN - Recadastramento (Veíc . RENAVAM - 03 letras)
+8514,DETRAN - Autorização para Regravação/Gravação Chassi/Motor,8514 - DETRAN - Autorização para Regravação/Gravação Chassi/Motor
+8515,DETRAN - Transferência Propriedade de Veículo - Rondônia com Troca de Placa (veículo 2 letras),8515 - DETRAN - Transferência Propriedade de Veículo - Rondônia com Troca de Placa (veículo 2 letras)
+8516,DETRAN - Transferência Propriedade de Veículo - Rondônia com Troca de Placa veículo 3 letras),8516 - DETRAN - Transferência Propriedade de Veículo - Rondônia com Troca de Placa veículo 3 letras)
+8517,DETRAN - Relacre de Placa,8517 - DETRAN - Relacre de Placa
+8518,DETRAN - Mudança de Categoria,8518 - DETRAN - Mudança de Categoria
+8519,DETRAN - Troca de Placa Veículo de Rondônia (de 2 para 3 letras),8519 - DETRAN - Troca de Placa Veículo de Rondônia (de 2 para 3 letras)
+8520,DETRAN - Autorização de Embarque,8520 - DETRAN - Autorização de Embarque
+8521,DETRAN - Liberação de Veículos Apreendidos sem Serviço de Guincho,8521 - DETRAN - Liberação de Veículos Apreendidos sem Serviço de Guincho
+8522,DETRAN - Liberação de Veículos Apreendidos com Serviço de Guincho,8522 - DETRAN - Liberação de Veículos Apreendidos com Serviço de Guincho
+8523,"DETRAN - Cadeia Dominial, Declaração e Certidões Diversas","8523 - DETRAN - Cadeia Dominial, Declaração e Certidões Diversas"
+8524,DETRAN - Licenciamento Anual por Exercício Vencido,8524 - DETRAN - Licenciamento Anual por Exercício Vencido
+8525,DETRAN - Renovação de Credenciamento de Oficina/Desmonte,8525 - DETRAN - Renovação de Credenciamento de Oficina/Desmonte
+8526,DETRAN - Credenciamento de Oficina/Desmonte,8526 - DETRAN - Credenciamento de Oficina/Desmonte
+8527,DETRAN - Certidão Negativa para Seguro,8527 - DETRAN - Certidão Negativa para Seguro
+8528,DETRAN - Licença para Trânsito de Veículo (Licença de Parabrisa),8528 - DETRAN - Licença para Trânsito de Veículo (Licença de Parabrisa)
+8529,DETRAN - Alteração de Característica sem Autorização Prévia,8529 - DETRAN - Alteração de Característica sem Autorização Prévia
+8530,DETRAN - Nota Fiscal ou Recibo Vencido,8530 - DETRAN - Nota Fiscal ou Recibo Vencido
+8531,DETRAN - Certidão Negativa de Multas,8531 - DETRAN - Certidão Negativa de Multas
+8532,"DETRAN - Baixa de Restrição Administrativa , Tributária e Comunicação de Dados","8532 - DETRAN - Baixa de Restrição Administrativa , Tributária e Comunicação de Dados"
+8533,DETRAN - Cancelamento de Gravam e,8533 - DETRAN - Cancelamento de Gravam e
+8534,DETRAN - Cópia de Documento de Processo de Veículos (por folha frente e verso),8534 - DETRAN - Cópia de Documento de Processo de Veículos (por folha frente e verso)
+8535,DETRAN - Concessão de Placa de Experiência,8535 - DETRAN - Concessão de Placa de Experiência
+8536,DETRAN - Credenciamento de Concessionária para Fins Diversos,8536 - DETRAN - Credenciamento de Concessionária para Fins Diversos
+8537,DETRAN - Credenciamento de Financeira p ara Acesso ao SNG,8537 - DETRAN - Credenciamento de Financeira p ara Acesso ao SNG
+8588,DETRAN - Inscrição para Curso de Atualização para Profissional de Trânsito,8588 - DETRAN - Inscrição para Curso de Atualização para Profissional de Trânsito
+8589,DETRAN - Expedição de 2ª via de LADV,8589 - DETRAN - Expedição de 2ª via de LADV
+8590,DETRAN - Alteração de Dados LADV,8590 - DETRAN - Alteração de Dados LADV
+8591,DETRAN - Divida Ativa Taxas de Licenciamento,8591 - DETRAN - Divida Ativa Taxas de Licenciamento
+8592,DETRAN - Divida Ativa Outras Taxas,8592 - DETRAN - Divida Ativa Outras Taxas
+8593,DETRAN - Divida Ativa Multas de Trânsito,8593 - DETRAN - Divida Ativa Multas de Trânsito
+8594,DETRAN - Dívida Ativa Multas Diversas,8594 - DETRAN - Dívida Ativa Multas Diversas
+8595,DETRAN - Dívida Ativa Diárias,8595 - DETRAN - Dívida Ativa Diárias
+8596,DETRAN - Dívida Ativa Suprimento de Fundos,8596 - DETRAN - Dívida Ativa Suprimento de Fundos
+8597,DETRAN - Parcelamento de Débitos de Veículos,8597 - DETRAN - Parcelamento de Débitos de Veículos
+8598,DETRAN - Multas de Trânsito,8598 - DETRAN - Multas de Trânsito
+8599,DETRAN - Parcelamento de Multas de Trânsito,8599 - DETRAN - Parcelamento de Multas de Trânsito
+8600,"FUNRESPOL - Taxa para emissão de atestado coletivo de interesse de Empresas privadas, por pessoa","8600 - FUNRESPOL - Taxa para emissão de atestado coletivo de interesse de Empresas privadas, por pessoa"
+8601,"FUNRESPOL - Taxa para emissão de atestado de antecedentes criminais, por pessoa","8601 - FUNRESPOL - Taxa para emissão de atestado de antecedentes criminais, por pessoa"
+8602,"FUNRESPOL - Taxa para emissão de atestado de cadastro, por pessoa","8602 - FUNRESPOL - Taxa para emissão de atestado de cadastro, por pessoa"
+8603,"FUNRESPOL - Taxa para emissão de cédula de identidade 1"" via","8603 - FUNRESPOL - Taxa para emissão de cédula de identidade 1"" via"
+8604,"FUNRESPOL - Taxa para emissão de cédula de identidade 2"" via","8604 - FUNRESPOL - Taxa para emissão de cédula de identidade 2"" via"
+8605,FUNRESPOL - Taxa para emissão de cédula de retificação em geral,8605 - FUNRESPOL - Taxa para emissão de cédula de retificação em geral
+8606,"FUNRESPOL - Taxa para emissão de cédula de Identificação de pessoa em residência, com expedição de cédula, por pessoa","8606 - FUNRESPOL - Taxa para emissão de cédula de Identificação de pessoa em residência, com expedição de cédula, por pessoa"
+8607,FUNRESPOL - Taxa para emissão de laudo de necropsia,8607 - FUNRESPOL - Taxa para emissão de laudo de necropsia
+8608,FUNRESPOL - Taxa para emissão de laudo de exumação e necropsia,8608 - FUNRESPOL - Taxa para emissão de laudo de exumação e necropsia
+8609,FUNRESPOL - Taxa para emissão de laudo de lesão corporal para fins particulares,8609 - FUNRESPOL - Taxa para emissão de laudo de lesão corporal para fins particulares
+8610,FUNRESPOL - Taxa para emissão de laudo para processos e acidentes de trabalho,8610 - FUNRESPOL - Taxa para emissão de laudo para processos e acidentes de trabalho
+8611,FUNRESPOL - Taxa para emissão de laudo de exames químicos - legais,8611 - FUNRESPOL - Taxa para emissão de laudo de exames químicos - legais
+8612,FUNRESPOL - Taxa para emissão de laudo de exames toxicológicos,8612 - FUNRESPOL - Taxa para emissão de laudo de exames toxicológicos
+8613,FUNRESPOL - Taxa para emissão de laudo de exames anátomo - patológico,8613 - FUNRESPOL - Taxa para emissão de laudo de exames anátomo - patológico
+8614,FUNRESPOL - Taxa para emissão de laudo de exames sexológicos,8614 - FUNRESPOL - Taxa para emissão de laudo de exames sexológicos
+8615,FUNRESPOL - Taxa para emissão de laudo de exames de verificação de idade,8615 - FUNRESPOL - Taxa para emissão de laudo de exames de verificação de idade
+8616,FUNRESPOL - Taxa para emissão de laudo de exames de sanidade mental,8616 - FUNRESPOL - Taxa para emissão de laudo de exames de sanidade mental
+8617,FUNRESPOL - Taxa para emissão de laudo de exames de outras naturezas,8617 - FUNRESPOL - Taxa para emissão de laudo de exames de outras naturezas
+8618,FUNRESPOL - Taxa para emissão de laudo de autorização para translado de cadáver,8618 - FUNRESPOL - Taxa para emissão de laudo de autorização para translado de cadáver
+8619,FUNRESPOL - Taxa para emissão de laudo de embalsamamento de cadáver,8619 - FUNRESPOL - Taxa para emissão de laudo de embalsamamento de cadáver
+8620,"FUNRESPOL - Taxa para emissão de laudos de acidentes de trânsito, na Capital","8620 - FUNRESPOL - Taxa para emissão de laudos de acidentes de trânsito, na Capital"
+8621,"FUNRESPOL - Taxa para emissão de laudos de acidente de trânsito, em outros municípios","8621 - FUNRESPOL - Taxa para emissão de laudos de acidente de trânsito, em outros municípios"
+8622,"FUNRESPOL - Taxa para emissão de laudos de exames diversos, pareceres, exames de documentação contábeis, exames laboratoriais em geral de jogos lícitos e de outras espécies","8622 - FUNRESPOL - Taxa para emissão de laudos de exames diversos, pareceres, exames de documentação contábeis, exames laboratoriais em geral de jogos lícitos e de outras espécies"
+8623,FUNRESPOL - Taxa para vistoria de constatação de danos,8623 - FUNRESPOL - Taxa para vistoria de constatação de danos
+8624,FUNRESPOL - Taxa para vistoria de levantamento de questões possessórias,8624 - FUNRESPOL - Taxa para vistoria de levantamento de questões possessórias
+8625,"FUNRESPOL - Taxa para vistoria de veículos transportadores de valores, cada veículo","8625 - FUNRESPOL - Taxa para vistoria de veículos transportadores de valores, cada veículo"
+8626,FUNRESPOL - Taxa para vistoria de numerações identificadoras de veículos ou de outra natureza,8626 - FUNRESPOL - Taxa para vistoria de numerações identificadoras de veículos ou de outra natureza
+8627,"FUNRESPOL - Taxa para fotografias legendadas e autenticadas até o tamanho 10X15 cm , por unidade","8627 - FUNRESPOL - Taxa para fotografias legendadas e autenticadas até o tamanho 10X15 cm , por unidade"
+8628,"FUNRESPOL - Taxa para ampliações fotográficas até o tamanho 20X25 cm, por unidade","8628 - FUNRESPOL - Taxa para ampliações fotográficas até o tamanho 20X25 cm, por unidade"
+8629,"FUNRESPOL - Taxa para cópias de legendadas e autenticadas até o tamanho 10X15 cm , por unidade","8629 - FUNRESPOL - Taxa para cópias de legendadas e autenticadas até o tamanho 10X15 cm , por unidade"
+8630,"FUNRESPOL - Taxa para cópias de ampliações fotográficas até o tamanho 20x25cm, por unidade","8630 - FUNRESPOL - Taxa para cópias de ampliações fotográficas até o tamanho 20x25cm, por unidade"
+8631,"FUNRESPOL - Taxa para cópias fotostáticas autenticadas de documentos, por folha ou exemplar","8631 - FUNRESPOL - Taxa para cópias fotostáticas autenticadas de documentos, por folha ou exemplar"
+8632,FUNRESPOL - Taxa para cópias heliográficas por unidade medindo até o tamanho de 33x22,8632 - FUNRESPOL - Taxa para cópias heliográficas por unidade medindo até o tamanho de 33x22
+8633,"FUNRESPOL - Taxa para cópias de autos e folhas de inquéritos policiais, processos contravencionais, por unidade","8633 - FUNRESPOL - Taxa para cópias de autos e folhas de inquéritos policiais, processos contravencionais, por unidade"
+8634,"FUNRESPOL - Taxa para certidão de autos de inquéritos policiais, processos contravencionais, por folha","8634 - FUNRESPOL - Taxa para certidão de autos de inquéritos policiais, processos contravencionais, por folha"
+8635,FUNRESPOL - Taxa para certidão de perda de documentos,8635 - FUNRESPOL - Taxa para certidão de perda de documentos
+8636,FUNRESPOL - Taxa para certidão negativa expedida pela Delegacia de Furtos e Roubo de Veículos,8636 - FUNRESPOL - Taxa para certidão negativa expedida pela Delegacia de Furtos e Roubo de Veículos
+8637,"FUNRESPOL - Taxa para certidão de Ocorrência Policial e/ou diversas, de atos praticados em Delegacias de Polícias e/ou outros órgãos policiais não compreendidos nesta tabela","8637 - FUNRESPOL - Taxa para certidão de Ocorrência Policial e/ou diversas, de atos praticados em Delegacias de Polícias e/ou outros órgãos policiais não compreendidos nesta tabela"
+8638,"FUNRESPOL - Taxa para inscrição no C urso de vigilante, por candidato","8638 - FUNRESPOL - Taxa para inscrição no C urso de vigilante, por candidato"
+8639,"FUNRESPOL - Taxa para inscrição para reciclagem de vigilante, por candidato","8639 - FUNRESPOL - Taxa para inscrição para reciclagem de vigilante, por candidato"
+8640,"FUNRESPOL - Taxa para exame psicotécnico, por candidato","8640 - FUNRESPOL - Taxa para exame psicotécnico, por candidato"
+8641,"FUNRESPOL - Taxa para expedição de certificados e documentos diversos, por candidato","8641 - FUNRESPOL - Taxa para expedição de certificados e documentos diversos, por candidato"
+8642,FUNRESPOL - Taxa para inscrição em concurso público de nível superior por candidato,8642 - FUNRESPOL - Taxa para inscrição em concurso público de nível superior por candidato
+8643,"Taxa para inscrição em concurso público de nível médio, por candidato","8643 - Taxa para inscrição em concurso público de nível médio, por candidato"
+8644,"FUNRESPOL - Taxa para inscrição em curso de nível superior, por candidato","8644 - FUNRESPOL - Taxa para inscrição em curso de nível superior, por candidato"
+8645,"FUNRESPOL - Taxa para inscrição em curso de nível médio, por candidato","8645 - FUNRESPOL - Taxa para inscrição em curso de nível médio, por candidato"
+8646,"FUNRESPOL - Taxa para inscrição em curso de nível intermediário, por candidato","8646 - FUNRESPOL - Taxa para inscrição em curso de nível intermediário, por candidato"
+8670,FUNRESPOL - Taxa para alvará Alto-falante fixo,8670 - FUNRESPOL - Taxa para alvará Alto-falante fixo
+8671,FUNRESPOL - Taxa para alvará Alto-falante móvel,8671 - FUNRESPOL - Taxa para alvará Alto-falante móvel
+8672,FUNRESPOL - Taxa para alvará Bar de 1ª classe,8672 - FUNRESPOL - Taxa para alvará Bar de 1ª classe
+8673,FUNRESPOL - Taxa para alvará Bar de 2ª classe,8673 - FUNRESPOL - Taxa para alvará Bar de 2ª classe
+8674,FUNRESPOL - Taxa para alvará Bar de 3ª classe,8674 - FUNRESPOL - Taxa para alvará Bar de 3ª classe
+8675,FUNRESPOL - Taxa para alvará Bar de 4ª classe,8675 - FUNRESPOL - Taxa para alvará Bar de 4ª classe
+8676,FUNRESPOL - Taxa para alvará Bar de 5ª classe,8676 - FUNRESPOL - Taxa para alvará Bar de 5ª classe
+8677,FUNRESPOL - Taxa para alvará Bar de 6ª classe,8677 - FUNRESPOL - Taxa para alvará Bar de 6ª classe
+8678,FUNRESPOL - Taxa para alvará Casa de sauna mista,8678 - FUNRESPOL - Taxa para alvará Casa de sauna mista
+8679,FUNRESPOL - Taxa para alvará Drive-in,8679 - FUNRESPOL - Taxa para alvará Drive-in
+8680,"FUNRESPOL - Taxa para alvará Boates contendo estacionamento, danças, shows musicais, restaurantes e/ou lanchonetes e similares","8680 - FUNRESPOL - Taxa para alvará Boates contendo estacionamento, danças, shows musicais, restaurantes e/ou lanchonetes e similares"
+8681,FUNRESPOL - Taxa para alvará de Cinema em cidades com até 50.000 habitantes,8681 - FUNRESPOL - Taxa para alvará de Cinema em cidades com até 50.000 habitantes
+8682,FUNRESPOL - Taxa para alvará de Cinema em cidades acima de 50.000 habitantes,8682 - FUNRESPOL - Taxa para alvará de Cinema em cidades acima de 50.000 habitantes
+8683,"FUNRESPOL - Taxa para alvará de Locadora de vídeo, 1ª classe","8683 - FUNRESPOL - Taxa para alvará de Locadora de vídeo, 1ª classe"
+8684,"FUNRESPOL - Taxa para alvará de Locadora de vídeo, 2a classe","8684 - FUNRESPOL - Taxa para alvará de Locadora de vídeo, 2a classe"
+8685,"FUNRESPOL - Taxa para alvará de Locadora de vídeo, 3a classe","8685 - FUNRESPOL - Taxa para alvará de Locadora de vídeo, 3a classe"
+8686,FUNRESPOL - Taxa para alvará de Hotel de cinco estrelas,8686 - FUNRESPOL - Taxa para alvará de Hotel de cinco estrelas
+8687,FUNRESPOL - Taxa para alvará de Hotel de quatro estrelas,8687 - FUNRESPOL - Taxa para alvará de Hotel de quatro estrelas
+8688,FUNRESPOL - Taxa para alvará de Hotel de três estrelas,8688 - FUNRESPOL - Taxa para alvará de Hotel de três estrelas
+8689,FUNRESPOL - Taxa para alvará de Hotel de duas estrelas,8689 - FUNRESPOL - Taxa para alvará de Hotel de duas estrelas
+8690,FUNRESPOL - Taxa para alvará de Hotel de um a estrela,8690 - FUNRESPOL - Taxa para alvará de Hotel de um a estrela
+8691,"FUNRESPOL - Taxa para alvará de Hotel sem estrela, com mais de 25 apartamentos ou quartos","8691 - FUNRESPOL - Taxa para alvará de Hotel sem estrela, com mais de 25 apartamentos ou quartos"
+8692,FUNRESPOL - Taxa para alvará de Hotel sem estrelas com até 25 apartamentos ou quartos,8692 - FUNRESPOL - Taxa para alvará de Hotel sem estrelas com até 25 apartamentos ou quartos
+8693,FUNRESPOL - Taxa para alvará de Hotel sem estrelas com menos de 25 apartamentos,8693 - FUNRESPOL - Taxa para alvará de Hotel sem estrelas com menos de 25 apartamentos
+8694,FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas com três estrelas,8694 - FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas com três estrelas
+8695,FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas com duas estrelas,8695 - FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas com duas estrelas
+8696,FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas com uma estrela,8696 - FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas com uma estrela
+8697,FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas sem estrela mais de 25 apartamentos ou quartos,8697 - FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas sem estrela mais de 25 apartamentos ou quartos
+8698,FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas sem estrelas até 25 apartamentos ou quartos,8698 - FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas sem estrelas até 25 apartamentos ou quartos
+8699,FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas sem estrelas com menos de 10 apartamentos,8699 - FUNRESPOL - Taxa para alvará de Hospedarias ou pousadas sem estrelas com menos de 10 apartamentos
+8700,FUNRESPOL - Taxa para alvará de Motéis luxo,8700 - FUNRESPOL - Taxa para alvará de Motéis luxo
+8701,FUNRESPOL - Taxa para alvará de Motéis de 1a classe,8701 - FUNRESPOL - Taxa para alvará de Motéis de 1a classe
+8702,FUNRESPOL - Taxa para alvará de Motéis de 2a classe,8702 - FUNRESPOL - Taxa para alvará de Motéis de 2a classe
+8703,FUNRESPOL - Taxa para alvará de Motéis de 3a classe,8703 - FUNRESPOL - Taxa para alvará de Motéis de 3a classe
+8704,FUNRESPOL - Taxa para alvará de Motéis de 4a classe,8704 - FUNRESPOL - Taxa para alvará de Motéis de 4a classe
+8705,FUNRESPOL - Taxa para alvará de Restaurantes 1ª classe,8705 - FUNRESPOL - Taxa para alvará de Restaurantes 1ª classe
+8706,FUNRESPOL - Taxa para alvará de Restaurantes 2a classe,8706 - FUNRESPOL - Taxa para alvará de Restaurantes 2a classe
+8707,FUNRESPOL - Taxa para alvará de Restaurantes 3a classe,8707 - FUNRESPOL - Taxa para alvará de Restaurantes 3a classe
+8708,FUNRESPOL - Taxa para alvará de Lanchonete 1ª classe,8708 - FUNRESPOL - Taxa para alvará de Lanchonete 1ª classe
+8709,FUNRESPOL - Taxa para alvará de Lanchonete 2ª classe,8709 - FUNRESPOL - Taxa para alvará de Lanchonete 2ª classe
+8710,FUNRESPOL - Taxa para alvará de Lanchonete 3ª classe,8710 - FUNRESPOL - Taxa para alvará de Lanchonete 3ª classe
+8711,"FUNRESPOL - Taxa para alvará de casa de jogos de habilidade, mecânicas, manuais ou através de máquina ou aparelho elétrico ou eletrônico, ou jogos de bocha, bolão e congêneres, explorado por pessoa física ou jurídica, que não sejam instaladas em Sociedades recreativas, por unidades de máquinas, de mesas, de aparelhos elétrico ou eletrônico","8711 - FUNRESPOL - Taxa para alvará de casa de jogos de habilidade, mecânicas, manuais ou através de máquina ou aparelho elétrico ou eletrônico, ou jogos de bocha, bolão e congêneres, explorado por pessoa física ou jurídica, que não sejam instaladas em Sociedades recreativas, por unidades de máquinas, de mesas, de aparelhos elétrico ou eletrônico"
+8712,"FUNRESPOL - Taxa para alvará de execução fonomecânica e sem locutor, por eletrolas, gravador, alto-falantes ou similares, em casas de comércio e que não sejam efetuadas em cabinas indevassáveis , acionado através de ficha, por aparelho","8712 - FUNRESPOL - Taxa para alvará de execução fonomecânica e sem locutor, por eletrolas, gravador, alto-falantes ou similares, em casas de comércio e que não sejam efetuadas em cabinas indevassáveis , acionado através de ficha, por aparelho"
+8713,"FUNRESPOL - Taxa para alvará de orquestra, conjunto musical, música mecânica ou eletrônica, com ou sem inserção de moedas, em bares, confeitarias, leiteiras, sorveterias ou em outros estabelecimentos congêneres","8713 - FUNRESPOL - Taxa para alvará de orquestra, conjunto musical, música mecânica ou eletrônica, com ou sem inserção de moedas, em bares, confeitarias, leiteiras, sorveterias ou em outros estabelecimentos congêneres"
+8714,"FUNRESPOL - Taxa para alvará de associações recreativas, clubes, sociedades, estádios que vendam ingresso","8714 - FUNRESPOL - Taxa para alvará de associações recreativas, clubes, sociedades, estádios que vendam ingresso"
+8715,FUNRESPOL - Taxa para alvará de parque de patinação em recinto aberto ou fechado,8715 - FUNRESPOL - Taxa para alvará de parque de patinação em recinto aberto ou fechado
+8716,"Taxa para alvará de casas de jogos de carteados lícitos, permitido em sociedades legitimamente constituída","8716 - Taxa para alvará de casas de jogos de carteados lícitos, permitido em sociedades legitimamente constituída"
+8717,FUNRESPOL - Taxa para alvará d e bailes em cidades com até 200.000 habitantes,8717 - FUNRESPOL - Taxa para alvará d e bailes em cidades com até 200.000 habitantes
+8718,"FUNRESPOL - Taxa para alvará de bailes em cidades com mais de 200.000 habitantes, por baile","8718 - FUNRESPOL - Taxa para alvará de bailes em cidades com mais de 200.000 habitantes, por baile"
+8719,FUNRESPOL - Taxa para alvará nos distritos administrativos ou judiciários e fora do quadro urbano dos municípios do interior,8719 - FUNRESPOL - Taxa para alvará nos distritos administrativos ou judiciários e fora do quadro urbano dos municípios do interior
+8720,FUNRESPOL - Taxa para alvará de trio-elétrico,8720 - FUNRESPOL - Taxa para alvará de trio-elétrico
+8721,"FUNRESPOL - Taxa para alvará de bloco carnavalesco, escola de samba","8721 - FUNRESPOL - Taxa para alvará de bloco carnavalesco, escola de samba"
+8722,FUNRESPOL - Taxa para alvará de bailões,8722 - FUNRESPOL - Taxa para alvará de bailões
+8723,"FUNRESPOL - Taxa para alvará de luta livre , boxe , ou similares, com entrada paga, por espetáculo","8723 - FUNRESPOL - Taxa para alvará de luta livre , boxe , ou similares, com entrada paga, por espetáculo"
+8724,FUNRESPOL - Taxa para alvará para leilão de veículos,8724 - FUNRESPOL - Taxa para alvará para leilão de veículos
+8725,FUNRESPOL - Taxa para alvará para leilão de animais,8725 - FUNRESPOL - Taxa para alvará para leilão de animais
+8726,"FUNRESPOL - Taxa para alvará de enduros, corridas, de veículos e/ou animais em geral e correlatos","8726 - FUNRESPOL - Taxa para alvará de enduros, corridas, de veículos e/ou animais em geral e correlatos"
+8727,"FUNRESPOL - Taxa para alvará de shows com dança - cantores, bandas ou grupos musicais, por show","8727 - FUNRESPOL - Taxa para alvará de shows com dança - cantores, bandas ou grupos musicais, por show"
+8728,"FUNRESPOL - Taxa para alvará de shows sem dança - ópera , teatro, musicais , mágicos, ilusionistas, por show","8728 - FUNRESPOL - Taxa para alvará de shows sem dança - ópera , teatro, musicais , mágicos, ilusionistas, por show"
+8729,"FUNRESPOL - Taxa para alvará de barraca de com ida, de jogo lícito, sorveteria , aparelho de diversão , por temporada","8729 - FUNRESPOL - Taxa para alvará de barraca de com ida, de jogo lícito, sorveteria , aparelho de diversão , por temporada"
+8730,FUNRESPOL - Taxa para alvará de apresentação de danças,8730 - FUNRESPOL - Taxa para alvará de apresentação de danças
+8731,"FUNRESPOL - Taxa para alvará de parque ou estande, por aparelho ou local de atração, cada temporada","8731 - FUNRESPOL - Taxa para alvará de parque ou estande, por aparelho ou local de atração, cada temporada"
+8732,FUNRESPOL - Taxa para alvará de bar com música,8732 - FUNRESPOL - Taxa para alvará de bar com música
+8733,FUNRESPOL - Taxa para alvará de bar sem música,8733 - FUNRESPOL - Taxa para alvará de bar sem música
+8734,FUNRESPOL - Taxa para alvará de restaurante e lanchonetes,8734 - FUNRESPOL - Taxa para alvará de restaurante e lanchonetes
+8735,FUNRESPOL - Taxa para alvará de estacionamento para veículos automotores,8735 - FUNRESPOL - Taxa para alvará de estacionamento para veículos automotores
+8736,"FUNRESPOL - Taxa para autorização de empresas de desmanche, manutenção e revenda de peças de veículos ou estabelecimentos assemelhados","8736 - FUNRESPOL - Taxa para autorização de empresas de desmanche, manutenção e revenda de peças de veículos ou estabelecimentos assemelhados"
+8737,FUNRESPOL - Taxa para autorização de oficinas de manutenção e recuperação de veículos automotores,8737 - FUNRESPOL - Taxa para autorização de oficinas de manutenção e recuperação de veículos automotores
+8738,FUNRESPOL - Taxa para autorização de oficinas de manutenção e recuperação de bicicletas e similares,8738 - FUNRESPOL - Taxa para autorização de oficinas de manutenção e recuperação de bicicletas e similares
+8739,FUNRESPOL - Taxa para autorização de empresas locadoras de veículos,8739 - FUNRESPOL - Taxa para autorização de empresas locadoras de veículos
+8740,FUNRESPOL - Taxa para autorização de estacionamento de veículos,8740 - FUNRESPOL - Taxa para autorização de estacionamento de veículos
+8741,"FUNRESPOL - Taxa para alvará de empresas de comércio de jóias, pedras ou metais preciosos","8741 - FUNRESPOL - Taxa para alvará de empresas de comércio de jóias, pedras ou metais preciosos"
+8742,FUNRESPOL - Taxa para alvará de empresas fornecedoras ou instaladoras de alarme residenciais,8742 - FUNRESPOL - Taxa para alvará de empresas fornecedoras ou instaladoras de alarme residenciais
+8743,FUNRESPOL - Taxa para alvará de empresas fornecedoras ou instaladoras de alarme em veículos,8743 - FUNRESPOL - Taxa para alvará de empresas fornecedoras ou instaladoras de alarme em veículos
+8744,FUNRESPOL - Taxa para alvará de empresas confeccionadoras de chaves e especialistas em consertos de fechaduras,8744 - FUNRESPOL - Taxa para alvará de empresas confeccionadoras de chaves e especialistas em consertos de fechaduras
+8745,"FUNRESPOL - Taxa para alvará de empresas de transportes blindados de valores, de acordo com a legislação vigente","8745 - FUNRESPOL - Taxa para alvará de empresas de transportes blindados de valores, de acordo com a legislação vigente"
+8746,"FUNRESPOL - Taxa para alvará de empresas de segurança bancária de conformidade com a legislação vigente, por exercício","8746 - FUNRESPOL - Taxa para alvará de empresas de segurança bancária de conformidade com a legislação vigente, por exercício"
+8747,FUNRESPOL - Taxa diária para motocicletas em geral apreendidas nas delegacias,8747 - FUNRESPOL - Taxa diária para motocicletas em geral apreendidas nas delegacias
+8748,FUNRESPOL - Taxa diária para veículos de passeio e utilitários apreendidos nas delegacias,8748 - FUNRESPOL - Taxa diária para veículos de passeio e utilitários apreendidos nas delegacias
+8749,FUNRESPOL - Taxa diária para veículos de transportes até o limite de 12 (doze) passageiros apreendidos nas delegacias,8749 - FUNRESPOL - Taxa diária para veículos de transportes até o limite de 12 (doze) passageiros apreendidos nas delegacias
+8750,FUNRESPOL - Taxa diária para veículos de transportes acima do limite de 12 (doze) passageiros apreendidos nas delegacias,8750 - FUNRESPOL - Taxa diária para veículos de transportes acima do limite de 12 (doze) passageiros apreendidos nas delegacias
+8751,FUNRESPOL - Taxa diária para caminhões e tratores em gera l apreendidos nas delegacias,8751 - FUNRESPOL - Taxa diária para caminhões e tratores em gera l apreendidos nas delegacias
+8752,FUNRESPOL - Taxa para alvará para agências de detetives particulares,8752 - FUNRESPOL - Taxa para alvará para agências de detetives particulares
+8753,FUNRESPOL - Taxa para alvará de oficinas de qualquer espécie que comercializem ou reformem armas em geral,8753 - FUNRESPOL - Taxa para alvará de oficinas de qualquer espécie que comercializem ou reformem armas em geral
+8754,"FUNRESPOL - Taxa para alvará d e fabrico, importação , exportação de armas, munições, inflamáveis e produtos químicos, agressivos e corrosivos","8754 - FUNRESPOL - Taxa para alvará d e fabrico, importação , exportação de armas, munições, inflamáveis e produtos químicos, agressivos e corrosivos"
+8755,FUNRESPOL - Taxa para alvará de escritórios de representações de armas e munições,8755 - FUNRESPOL - Taxa para alvará de escritórios de representações de armas e munições
+8756,FUNRESPOL - Taxa para alvará de casas d e revendas de armas e munições,8756 - FUNRESPOL - Taxa para alvará de casas d e revendas de armas e munições
+8757,FUNRESPOL - Taxa para alvará de postos d e gasolina,8757 - FUNRESPOL - Taxa para alvará de postos d e gasolina
+8758,FUNRESPOL - Taxa para alvará d e depósitos de explosivos ou inflamáveis,8758 - FUNRESPOL - Taxa para alvará d e depósitos de explosivos ou inflamáveis
+8759,FUNRESPOL - Taxa para alvará de firmas de comércio atacadista de fogos de artifícios,8759 - FUNRESPOL - Taxa para alvará de firmas de comércio atacadista de fogos de artifícios
+8760,FUNRESPOL - Taxa para alvará de firmas de comércio varejista de fogos de artifícios,8760 - FUNRESPOL - Taxa para alvará de firmas de comércio varejista de fogos de artifícios
+8761,"FUNRESPOL - Taxa para licença para transporte de mostruário de armas e munição, por exercício","8761 - FUNRESPOL - Taxa para licença para transporte de mostruário de armas e munição, por exercício"
+8762,"FUNRESPOL - Taxa para licença de habilitação para exercer a profissão de encarregado de jogo e/ou técnico de explosivos ""blaster""","8762 - FUNRESPOL - Taxa para licença de habilitação para exercer a profissão de encarregado de jogo e/ou técnico de explosivos ""blaster"""
+8763,FUNRESPOL - Taxa para licença para transporte de inflamáveis ou explosivos - pessoa física,8763 - FUNRESPOL - Taxa para licença para transporte de inflamáveis ou explosivos - pessoa física
+8764,FUNRESPOL - Taxa para licença para transporte de inflamáveis ou explosivos - pessoa jurídica,8764 - FUNRESPOL - Taxa para licença para transporte de inflamáveis ou explosivos - pessoa jurídica
+8765,FUNRESPOL - Taxa para licença para o uso ou em prego de explosivo,8765 - FUNRESPOL - Taxa para licença para o uso ou em prego de explosivo
+8766,FUNRESPOL - Taxa para registro de arma de defesa permanente - arma nova,8766 - FUNRESPOL - Taxa para registro de arma de defesa permanente - arma nova
+8767,FUNRESPOL - Taxa para registro de arma de defesa permanente - arma usada,8767 - FUNRESPOL - Taxa para registro de arma de defesa permanente - arma usada
+8768,FUNRESPOL - Taxa para registro de arma de tiro ao alvo c/ ou caça,8768 - FUNRESPOL - Taxa para registro de arma de tiro ao alvo c/ ou caça
+8769,FUNRESPOL - Taxa para transferência de registro em geral,8769 - FUNRESPOL - Taxa para transferência de registro em geral
+8770,"FUNRESPOL - Taxa para autorização de 1º porte - compreendendo: certificado de habilitação, autorização para a com pra de arma e munição, exame d e proeficiência de arma e a expedição do porte","8770 - FUNRESPOL - Taxa para autorização de 1º porte - compreendendo: certificado de habilitação, autorização para a com pra de arma e munição, exame d e proeficiência de arma e a expedição do porte"
+8771,FUNRESPOL - Taxa para renovação do porte de arma,8771 - FUNRESPOL - Taxa para renovação do porte de arma
+8772,FUNRESPOL - Taxa para exame de proeficiência de arma,8772 - FUNRESPOL - Taxa para exame de proeficiência de arma
+8773,FUNRESPOL - Taxa para trânsito de arma de tiro ao alvo e caça,8773 - FUNRESPOL - Taxa para trânsito de arma de tiro ao alvo e caça
+8774,FUNRESPOL - Taxa para a compra de armas e munições,8774 - FUNRESPOL - Taxa para a compra de armas e munições
+8775,FUNRESPOL - Taxa para exame psicotécnico para expedição do porte de arma,8775 - FUNRESPOL - Taxa para exame psicotécnico para expedição do porte de arma
+8776,FUNRESPOL - Taxa para restituição de arma apreendida,8776 - FUNRESPOL - Taxa para restituição de arma apreendida
+8777,FUNRESPOL - Taxa para certificado de habilitação para o porte de arma,8777 - FUNRESPOL - Taxa para certificado de habilitação para o porte de arma
+8778,"FUNRESPOL - Taxa para expedição de carteira para vigilante, vigias guardiões","8778 - FUNRESPOL - Taxa para expedição de carteira para vigilante, vigias guardiões"
+8779,FUNRESPOL - Taxa para certificados diversos compreendidos nesta tabela de competência do DOPS,8779 - FUNRESPOL - Taxa para certificados diversos compreendidos nesta tabela de competência do DOPS
+8801,DER - Taxa de requerimento,8801 - DER - Taxa de requerimento
+8802,DER - Taxa de expediente,8802 - DER - Taxa de expediente
+8803,DER - Taxa de mudança de horário,8803 - DER - Taxa de mudança de horário
+8804,DER - Taxa de vistoria de veículos,8804 - DER - Taxa de vistoria de veículos
+8805,DER - Taxa de viagem extraordinária e omissão,8805 - DER - Taxa de viagem extraordinária e omissão
+8806,DER - Taxa de licença especial com permissão de linha,8806 - DER - Taxa de licença especial com permissão de linha
+8807,DER - Taxa de licença especial sem permissão de linha,8807 - DER - Taxa de licença especial sem permissão de linha
+8808,DER - Taxa de fretamento eventual,8808 - DER - Taxa de fretamento eventual
+8809,DER - Taxa de fretamento contínuo,8809 - DER - Taxa de fretamento contínuo
+8810,DER - Taxa de registro de empresa e renovação até 10 veículos,8810 - DER - Taxa de registro de empresa e renovação até 10 veículos
+8811,DER - Taxa de registro de empresa e renovação de 11 a 3 0 veículos,8811 - DER - Taxa de registro de empresa e renovação de 11 a 3 0 veículos
+8812,DER - Taxa de registro de empresa e renovação de 31 a 5 0 veículos,8812 - DER - Taxa de registro de empresa e renovação de 31 a 5 0 veículos
+8813,DER - Taxa de registro de empresa e renovação de 51 a 1 00 veículos,8813 - DER - Taxa de registro de empresa e renovação de 51 a 1 00 veículos
+8814,DER - Taxa de registro de empresa e renovação d e 101 a 200 veículos,8814 - DER - Taxa de registro de empresa e renovação d e 101 a 200 veículos
+8815,DER - Taxa de registro de empresa e renovação acima de 2 00 veículos,8815 - DER - Taxa de registro de empresa e renovação acima de 2 00 veículos
+8816,DER - Obras Rod- Taxa de emissão de certidões diversas,8816 - DER - Obras Rod- Taxa de emissão de certidões diversas
+8817,"DER - Obras Rod- Taxa de a testado d e execução de obra s ou serviços, desempenho, capacidade ou idoneidade de firmas","8817 - DER - Obras Rod- Taxa de a testado d e execução de obra s ou serviços, desempenho, capacidade ou idoneidade de firmas"
+8818,DER - Obras Rod- Taxa de atestado de regularidade de obras/serviços,8818 - DER - Obras Rod- Taxa de atestado de regularidade de obras/serviços
+8819,DER - Obras Rod- Taxa de cópia de qualquer documento produzido pelo órgão e requerido por terceiros,8819 - DER - Obras Rod- Taxa de cópia de qualquer documento produzido pelo órgão e requerido por terceiros
+8820,DER - Obras Rod- Taxa de mapa rodoviário a cores,8820 - DER - Obras Rod- Taxa de mapa rodoviário a cores
+8821,DER - Obras Rod- Taxa de termo de recebimento de finitivo de obras,8821 - DER - Obras Rod- Taxa de termo de recebimento de finitivo de obras
+8822,DER - Obras Rod- Taxa de expediente,8822 - DER - Obras Rod- Taxa de expediente
+8823,DER - Multa Aplicada em contrato de empreitada,8823 - DER - Multa Aplicada em contrato de empreitada
+8824,DER - Dívida apurada em processo de tomada de contas especial,8824 - DER - Dívida apurada em processo de tomada de contas especial
+5507,DER - Dívida Ativa não tributária - Auto de Infração,5507 - DER - Dívida Ativa não tributária - Auto de Infração
+8851,DEOSP - Const. Civil - Taxa d e certidões diversas,8851 - DEOSP - Const. Civil - Taxa d e certidões diversas
+8852,"DEOSP - Const. Civil - Taxa de atestado de execução de obras ou serviços, desempenho, capacidade ou idoneidade de firmas","8852 - DEOSP - Const. Civil - Taxa de atestado de execução de obras ou serviços, desempenho, capacidade ou idoneidade de firmas"
+8853,DEOSP - Const. Civil - Taxa de atestado de visitas/certificado de regularidade de obras,8853 - DEOSP - Const. Civil - Taxa de atestado de visitas/certificado de regularidade de obras
+8854,DEOSP - Const. Civil - Taxa de inscrição ou atualização de cadastro de fornecedores de bens ou serviços,8854 - DEOSP - Const. Civil - Taxa de inscrição ou atualização de cadastro de fornecedores de bens ou serviços
+8855,DEOSP - Const. Civil - Taxa de cópia de qualquer documento produzido pelo órgão e requerido por terceiros,8855 - DEOSP - Const. Civil - Taxa de cópia de qualquer documento produzido pelo órgão e requerido por terceiros
+8856,DEOSP - Const. Civil - Taxa de cópia de desenho (projeto) ou cópia heliográfica por m 2,8856 - DEOSP - Const. Civil - Taxa de cópia de desenho (projeto) ou cópia heliográfica por m 2
+8857,DEOSP - Const. Civil - Taxa de mapa rodoviario a cores,8857 - DEOSP - Const. Civil - Taxa de mapa rodoviario a cores
+8858,DEOSP - Const. Civil - Taxa de termo de recebimento definitivo de obras,8858 - DEOSP - Const. Civil - Taxa de termo de recebimento definitivo de obras
+8859,DEOSP - Const. Civil - Multa Contratual,8859 - DEOSP - Const. Civil - Multa Contratual
+8860,DEOSP - Const. Civil - Taxa d e impetração d e recursos diversos,8860 - DEOSP - Const. Civil - Taxa d e impetração d e recursos diversos
+8861,DEOSP - Const. Civil - Taxa d e certidão de a provação de localidade de postos de derivados de petróleo,8861 - DEOSP - Const. Civil - Taxa d e certidão de a provação de localidade de postos de derivados de petróleo
+8862,DEOSP - Const. Civil - Taxa de expediente,8862 - DEOSP - Const. Civil - Taxa de expediente
+8901,"AGEVISA - Concessão de alvará de saúde , licença ou autorização de estabelecimento até 100m 2","8901 - AGEVISA - Concessão de alvará de saúde , licença ou autorização de estabelecimento até 100m 2"
+8902,"AGEVISA - Concessão de alvará de saúde, licença ou autorização de estabelecimento com 101 à 500m2","8902 - AGEVISA - Concessão de alvará de saúde, licença ou autorização de estabelecimento com 101 à 500m2"
+8903,"AGEVISA - Concessão de alvará de saúde , licença ou autorização de estabelecimento com 501 à 1000m 2","8903 - AGEVISA - Concessão de alvará de saúde , licença ou autorização de estabelecimento com 501 à 1000m 2"
+8904,"AGEVISA - Concessão de alvará de saúde, licença ou autorização de estabelecimento com 1001 à 2000m 2","8904 - AGEVISA - Concessão de alvará de saúde, licença ou autorização de estabelecimento com 1001 à 2000m 2"
+8905,"AGEVISA - Concessão de alvará de saúde , licença ou autorização de estabelecimento com 2001 à 3000m 2","8905 - AGEVISA - Concessão de alvará de saúde , licença ou autorização de estabelecimento com 2001 à 3000m 2"
+8906,"AGEVISA - Concessão de alvará de saúde, licença ou autorização de estabelecimento com 3001 à 5000m 2","8906 - AGEVISA - Concessão de alvará de saúde, licença ou autorização de estabelecimento com 3001 à 5000m 2"
+8907,AGEVISA - Analise de projetos arquitetônicos- até 100m 2,8907 - AGEVISA - Analise de projetos arquitetônicos- até 100m 2
+8908,AGEVISA - Analise de projetos arquitetônicos- de 101 a 500m2,8908 - AGEVISA - Analise de projetos arquitetônicos- de 101 a 500m2
+8909,AGEVISA - Analise de projetos arquitetônicos- de 501 a 1000m2,8909 - AGEVISA - Analise de projetos arquitetônicos- de 501 a 1000m2
+8910,AGEVISA - Analise de projetos arquitetônicos- de 1001 a 2000m 2,8910 - AGEVISA - Analise de projetos arquitetônicos- de 1001 a 2000m 2
+8911,AGEVISA - Analise de projetos arquitetônicos- de 2001 a 3000m 2,8911 - AGEVISA - Analise de projetos arquitetônicos- de 2001 a 3000m 2
+8912,AGEVISA - Analise de projetos arquitetônicos- de 3001 a 5000m 2,8912 - AGEVISA - Analise de projetos arquitetônicos- de 3001 a 5000m 2
+8913,AGEVISA - Analise de projetos arquitetônicos- acima de 5000m 2,8913 - AGEVISA - Analise de projetos arquitetônicos- acima de 5000m 2
+8914,"AGEVISA - Atestado, laudo, parecer técnico ou certidão como resultado da inspeção sanitária","8914 - AGEVISA - Atestado, laudo, parecer técnico ou certidão como resultado da inspeção sanitária"
+8915,"AGEVISA - Atestado, laudo, parecer técnico ou certidão como resultado da inspeção sanitária subseqüente","8915 - AGEVISA - Atestado, laudo, parecer técnico ou certidão como resultado da inspeção sanitária subseqüente"
+8916,AGEVISA - Certificados não especificados,8916 - AGEVISA - Certificados não especificados
+8917,AGEVISA - 2º via do documento,8917 - AGEVISA - 2º via do documento
+8918,AGEVISA - Anuência em documentos,8918 - AGEVISA - Anuência em documentos
+8919,AGEVISA - Qualquer alteração de em presa,8919 - AGEVISA - Qualquer alteração de em presa
+8920,AGEVISA - Certidão Negativa,8920 - AGEVISA - Certidão Negativa
+8921,AGEVISA - Cancelamento do alvará de saíde,8921 - AGEVISA - Cancelamento do alvará de saíde
+8922,AGEVISA - Suspensão de atividade de empresa,8922 - AGEVISA - Suspensão de atividade de empresa
+8923,AGEVISA - Multa de Auto de Infração,8923 - AGEVISA - Multa de Auto de Infração
+8924,AGEVISA - Certificado de baixa / Alteração de responsabilidade técnica,8924 - AGEVISA - Certificado de baixa / Alteração de responsabilidade técnica
+8925,AGEVISA - Certidão de Regularidade,8925 - AGEVISA - Certidão de Regularidade
+8926,AGEVISA - Requerimento em geral,8926 - AGEVISA - Requerimento em geral
+8927,AGEVISA - Pedido de Inspeção no município sede,8927 - AGEVISA - Pedido de Inspeção no município sede
+8928,AGEVISA - Pedido de Inspeção fora do município sede,8928 - AGEVISA - Pedido de Inspeção fora do município sede
+8929,AGEVISA - Laudo técnico para inutilização de produtos até 100 kg ou litros,8929 - AGEVISA - Laudo técnico para inutilização de produtos até 100 kg ou litros
+8930,AGEVISA AGEVISA - Laudo técnico para inutilização de produtos de 101 à 300 kg ou litros,8930 - AGEVISA AGEVISA - Laudo técnico para inutilização de produtos de 101 à 300 kg ou litros
+8931,AGEVISA AGEVISA - Laudo técnico para inutilização de produtos de 301 à 500 kg ou litros,8931 - AGEVISA AGEVISA - Laudo técnico para inutilização de produtos de 301 à 500 kg ou litros
+8932,AGEVISA AGEVISA - Laudo técnico para inutilização de produtos de 501 à 1000 kg ou litros,8932 - AGEVISA AGEVISA - Laudo técnico para inutilização de produtos de 501 à 1000 kg ou litros
+8933,AGEVISA AGEVISA - Laudo técnico para inutilização de produtos acima de 1000 kg ou litros,8933 - AGEVISA AGEVISA - Laudo técnico para inutilização de produtos acima de 1000 kg ou litros
+9001,SEDAM - Taxa de Registro e Licenças Ambientais,9001 - SEDAM - Taxa de Registro e Licenças Ambientais
+9002,SEDAM - Taxas Oriundas de A tividades Florestais,9002 - SEDAM - Taxas Oriundas de A tividades Florestais
+9003,SEDAM - Multas por Infração à Legislação Am biental,9003 - SEDAM - Multas por Infração à Legislação Am biental
+9004,SEDAM - Multas e Taxas Emitidas pelos Conveniados da SEDAM,9004 - SEDAM - Multas e Taxas Emitidas pelos Conveniados da SEDAM
+9100,BOMBEIROS - Taxa de com bate a incêndio,9100 - BOMBEIROS - Taxa de com bate a incêndio
+9101,BOMBEIROS - Taxa de vistoria de veículos de passeio,9101 - BOMBEIROS - Taxa de vistoria de veículos de passeio
+9102,BOMBEIROS - Taxa de vistoria de veículos coletivo rodoviário e urbanos,9102 - BOMBEIROS - Taxa de vistoria de veículos coletivo rodoviário e urbanos
+9103,BOMBEIROS - Taxa de com bate a incêndio imóveis residencial de qualquer natureza,9103 - BOMBEIROS - Taxa de com bate a incêndio imóveis residencial de qualquer natureza
+9104,BOMBEIROS - Taxa de com bate a incêndio imóveis com erc . e ou serv . de qualquer natureza,9104 - BOMBEIROS - Taxa de com bate a incêndio imóveis com erc . e ou serv . de qualquer natureza
+9105,BOMBEIROS - Taxa de com bate a incêndio imóveis industrial de qualquer natureza,9105 - BOMBEIROS - Taxa de com bate a incêndio imóveis industrial de qualquer natureza
+9106,BOMBEIROS - cadastro de firma prof. por pessoa jurídica,9106 - BOMBEIROS - cadastro de firma prof. por pessoa jurídica
+9107,BOMBEIROS - cadastro de firma prof. por pessoa física,9107 - BOMBEIROS - cadastro de firma prof. por pessoa física
+9108,BOMBEIROS - vistoria edif. resid. até 205 m2,9108 - BOMBEIROS - vistoria edif. resid. até 205 m2
+9109,"BOMBEIROS - vistoria edif. resid. de 205,01 até 50 0 m2","9109 - BOMBEIROS - vistoria edif. resid. de 205,01 até 50 0 m2"
+9110,"BOMBEIROS - vistoria edif. resid. de 500,01 até 10 00 m2","9110 - BOMBEIROS - vistoria edif. resid. de 500,01 até 10 00 m2"
+9111,"BOMBEIROS - vistoria edif. resid. de 1000,01 até 2000 m 2","9111 - BOMBEIROS - vistoria edif. resid. de 1000,01 até 2000 m 2"
+9112,"BOMBEIROS - vistoria edif. resid. de 2000,01 até 4000 m 2","9112 - BOMBEIROS - vistoria edif. resid. de 2000,01 até 4000 m 2"
+9113,BOMBEIROS - vistoria edif. resid. acima de 4000 m 2,9113 - BOMBEIROS - vistoria edif. resid. acima de 4000 m 2
+9114,BOMBEIROS - vistoria edif. comerc . até 205 m2,9114 - BOMBEIROS - vistoria edif. comerc . até 205 m2
+9115,"BOMBEIROS - vistoria edif. comerc . de 205,01 até 500 m 2","9115 - BOMBEIROS - vistoria edif. comerc . de 205,01 até 500 m 2"
+9116,"BOMBEIROS - vistoria edif. comerc . de 500,01 até 1000 m2","9116 - BOMBEIROS - vistoria edif. comerc . de 500,01 até 1000 m2"
+9117,"BOMBEIROS - vistoria edif. comerc . de 100,01 até 2000 m2","9117 - BOMBEIROS - vistoria edif. comerc . de 100,01 até 2000 m2"
+9118,"BOMBEIROS - vistoria edif. comerc . de 2000,01 até 4000 m 2","9118 - BOMBEIROS - vistoria edif. comerc . de 2000,01 até 4000 m 2"
+9120,BOMBEIROS - vistoria edif. industria l a té 205 m2,9120 - BOMBEIROS - vistoria edif. industria l a té 205 m2
+9121,"BOMBEIROS - vistoria edif. industria l de 205,01 até 5 00 m2","9121 - BOMBEIROS - vistoria edif. industria l de 205,01 até 5 00 m2"
+9122,"BOMBEIROS - vistoria edif. industria l de 500,01 até 1000 m 2","9122 - BOMBEIROS - vistoria edif. industria l de 500,01 até 1000 m 2"
+9123,"BOMBEIROS - vistoria edif. industria l de 100,01 até 2000 m 2","9123 - BOMBEIROS - vistoria edif. industria l de 100,01 até 2000 m 2"
+9124,"BOMBEIROS - vistoria edif. industria l de 2000,01 até 4000 m 2","9124 - BOMBEIROS - vistoria edif. industria l de 2000,01 até 4000 m 2"
+9125,BOMBEIROS - vistoria edif. industria l acima de 4000 m 2,9125 - BOMBEIROS - vistoria edif. industria l acima de 4000 m 2
+9126,BOMBEIROS - taxa de p erícia de incêndio hora trabalhada,9126 - BOMBEIROS - taxa de p erícia de incêndio hora trabalhada
+9127,"BOMBEIROS - taxa de análise de proj. de seg. contra incêndio - Risco""A""","9127 - BOMBEIROS - taxa de análise de proj. de seg. contra incêndio - Risco""A"""
+9128,"BOMBEIROS - taxa de análise de proj. de seg. contra incêndio - Risco ""B""","9128 - BOMBEIROS - taxa de análise de proj. de seg. contra incêndio - Risco ""B"""
+9129,"BOMBEIROS - taxa de análise de proj. de seg. contra incêndio - Risco ""C""","9129 - BOMBEIROS - taxa de análise de proj. de seg. contra incêndio - Risco ""C"""
+9130,"BOMBEIROS - taxa de análise de proj. de seg. contra incêndio - Risco ""A""","9130 - BOMBEIROS - taxa de análise de proj. de seg. contra incêndio - Risco ""A"""
+9131,"BOMBEIROS - Tx vist. tec. e tes te de pro va eq. comb. incêndio - Risco ""B""","9131 - BOMBEIROS - Tx vist. tec. e tes te de pro va eq. comb. incêndio - Risco ""B"""
+9132,"BOMBEIROS - Tx vist. tec. e tes te de pro va eq. comb. incêndio - Risco ""C""","9132 - BOMBEIROS - Tx vist. tec. e tes te de pro va eq. comb. incêndio - Risco ""C"""
+9133,BOMBEIROS - tx serv.especiais Art 12 desta lei,9133 - BOMBEIROS - tx serv.especiais Art 12 desta lei
+9134,BOMBEIROS - tx prev.oper.ind.e salv.Art.13 d/. Lei,9134 - BOMBEIROS - tx prev.oper.ind.e salv.Art.13 d/. Lei
+9136,BOMBEIROS - taxa de vistorias,9136 - BOMBEIROS - taxa de vistorias
+9137,BOMBEIROS - taxa de tes tes,9137 - BOMBEIROS - taxa de tes tes
+9138,BOMBEIROS - tx de anal.de proj.de inst de gás canal.em ed. .,9138 - BOMBEIROS - tx de anal.de proj.de inst de gás canal.em ed. .
+9139,BOMBEIROS - tx insc.em Conc. Públ. Níve l Fundam ental,9139 - BOMBEIROS - tx insc.em Conc. Públ. Níve l Fundam ental
+9140,BOMBEIROS - tx insc.em Conc. Públ. Níve l Méd.,9140 - BOMBEIROS - tx insc.em Conc. Públ. Níve l Méd.
+9141,BOMBEIROS - tx insc.em Conc. Públ. Níve l Super,9141 - BOMBEIROS - tx insc.em Conc. Públ. Níve l Super
+9142,BOMBEIROS - tx utiliz espaços e equi desporto,9142 - BOMBEIROS - tx utiliz espaços e equi desporto
+9143,BOMBEIROS - tx hospedagem em estab. do CBMRO,9143 - BOMBEIROS - tx hospedagem em estab. do CBMRO
+9144,BOMBEIROS - tx utiliz imóvel do CBMRO,9144 - BOMBEIROS - tx utiliz imóvel do CBMRO
+9145,BOMBEIROS - tx reanalise de pro j seg. contra incêndio,9145 - BOMBEIROS - tx reanalise de pro j seg. contra incêndio
+9146,BOMBEIROS - tx recarimbam. proj. sef. c/incêndio,9146 - BOMBEIROS - tx recarimbam. proj. sef. c/incêndio
+9147,BOMBEIROS - tx outros serviços não previstos,9147 - BOMBEIROS - tx outros serviços não previstos
+9201,IPERON - FPF - Ativo Civil,9201 - IPERON - FPF - Ativo Civil
+9202,IPERON - FPF - Inativo Civ il,9202 - IPERON - FPF - Inativo Civ il
+9203,IPERON - FPF - Pensionista Civil,9203 - IPERON - FPF - Pensionista Civil
+9204,IPERON - FPF - Ativo Milita r,9204 - IPERON - FPF - Ativo Milita r
+9205,IPERON - FPF - Inativo M ilitar,9205 - IPERON - FPF - Inativo M ilitar
+9206,IPERON - FPF - Pensionista M ilitar,9206 - IPERON - FPF - Pensionista M ilitar
+9207,IPERON - FPF - Ativo Civil (E .A ),9207 - IPERON - FPF - Ativo Civil (E .A )
+9208,IPERON - FPF - Inativo Civil (E .A),9208 - IPERON - FPF - Inativo Civil (E .A)
+9209,IPERON - FPF - Pensionista Civil (E.A),9209 - IPERON - FPF - Pensionista Civil (E.A)
+9210,IPERON - FPF - Ativo Milita r (E.A ),9210 - IPERON - FPF - Ativo Milita r (E.A )
+9211,IPERON - FPF - Inativo Militar (E .A ),9211 - IPERON - FPF - Inativo Militar (E .A )
+9212,IPERON - FPF - Pensionista M ilitar (E.A),9212 - IPERON - FPF - Pensionista M ilitar (E.A)
+9213,IPERON - FPF - Licenciado sem remuneração,9213 - IPERON - FPF - Licenciado sem remuneração
+9214,IPERON - FPF - Ativo Civil Cedido,9214 - IPERON - FPF - Ativo Civil Cedido
+9215,IPERON - FPF - Cont. P atr. A tivo Civil,9215 - IPERON - FPF - Cont. P atr. A tivo Civil
+9216,IPERON - FPF - Cont. P atr. Inativo Civil,9216 - IPERON - FPF - Cont. P atr. Inativo Civil
+9217,IPERON - FPF - Cont. P atr. Pensionis ta Civil,9217 - IPERON - FPF - Cont. P atr. Pensionis ta Civil
+9218,IPERON - FPF - Cont. P atr. A tivo Militar,9218 - IPERON - FPF - Cont. P atr. A tivo Militar
+9219,IPERON - FPF - Cont. P atr. Inativo Militar,9219 - IPERON - FPF - Cont. P atr. Inativo Militar
+9220,IPERON - FPF - Cont. P atr. Pensionis ta Militar,9220 - IPERON - FPF - Cont. P atr. Pensionis ta Militar
+9221,IPERON - FPF - Cont. P atr. A tivo Civil (E .A),9221 - IPERON - FPF - Cont. P atr. A tivo Civil (E .A)
+9222,IPERON - FPF - Cont. Patr. Inativo Civil (E.A),9222 - IPERON - FPF - Cont. Patr. Inativo Civil (E.A)
+9223,IPERON - FPF - Cont. Patr. Pensionis ta Civil (E .A ),9223 - IPERON - FPF - Cont. Patr. Pensionis ta Civil (E .A )
+9224,IPERON - FPF - Cont. P atr. A tivo Militar (E.A ),9224 - IPERON - FPF - Cont. P atr. A tivo Militar (E.A )
+9225,IPERON - FPF - Cont. Patr. Inativo Militar (E.A ),9225 - IPERON - FPF - Cont. Patr. Inativo Militar (E.A )
+9226,IPERON - FPF - Cont. Patr. Pensionis ta Militar (E.A ),9226 - IPERON - FPF - Cont. Patr. Pensionis ta Militar (E.A )
+9227,IPERON - FPF - Cobert. Defice - Poder Executivo,9227 - IPERON - FPF - Cobert. Defice - Poder Executivo
+9228,IPERON - FPF - Cobert. Defice - Poder Legislativo,9228 - IPERON - FPF - Cobert. Defice - Poder Legislativo
+9229,IPERON - FPF - Cobert. Defice - Poder Judiciário,9229 - IPERON - FPF - Cobert. Defice - Poder Judiciário
+9230,IPERON - FPF - Cobert. Defice - TCE,9230 - IPERON - FPF - Cobert. Defice - TCE
+9231,IPERON - FPF - Cobert. Defice - MPE,9231 - IPERON - FPF - Cobert. Defice - MPE
+9232,IPERON - FPF - Cobert. Defice - PM/BM,9232 - IPERON - FPF - Cobert. Defice - PM/BM
+9233,IPERON - FPF - Devolução de Pensão do BM,9233 - IPERON - FPF - Devolução de Pensão do BM
+9234,IPERON - FPF - Cont. P atr. A tivo Civil C edido,9234 - IPERON - FPF - Cont. P atr. A tivo Civil C edido
+9235,IPERON - FPF - Cont. Patr. Licenciado sem remuneração,9235 - IPERON - FPF - Cont. Patr. Licenciado sem remuneração
+9236,IPERON- SUPEL- Servidor,9236 - IPERON- SUPEL- Servidor
+9237,IPERON- SUPEL- Patronal,9237 - IPERON- SUPEL- Patronal
+9238,IPERON- SUPEL- Outros,9238 - IPERON- SUPEL- Outros
+9239,IPERON- SUPEL- Lic s/venc- Servidor,9239 - IPERON- SUPEL- Lic s/venc- Servidor
+9240,IPERON- SUPEL- Lic s/venc- Patronal,9240 - IPERON- SUPEL- Lic s/venc- Patronal
+9241,IPERON- SUPEL- Juros/M /AtM - Servidor,9241 - IPERON- SUPEL- Juros/M /AtM - Servidor
+9442,IPERON- SUPEL- Juros/M /AtM - Patronal,9442 - IPERON- SUPEL- Juros/M /AtM - Patronal
+9243,IPERON- CGAG- Servidor,9243 - IPERON- CGAG- Servidor
+9244,IPERON- CGAG- Patronal,9244 - IPERON- CGAG- Patronal
+9245,IPERON- CGAG- Outros,9245 - IPERON- CGAG- Outros
+9246,IPERON- CGAG- Lic s/venc- Servidor,9246 - IPERON- CGAG- Lic s/venc- Servidor
+9247,IPERON- CGAG- Lic s/venc- Patronal,9247 - IPERON- CGAG- Lic s/venc- Patronal
+9248,IPERON- CGAG- Juros/M /AtM - Servidor,9248 - IPERON- CGAG- Juros/M /AtM - Servidor
+9249,IPERON- CGAG- Juros/M /AtM - Patronal,9249 - IPERON- CGAG- Juros/M /AtM - Patronal
+9250,IPERON - FPC - Ativo Civil,9250 - IPERON - FPC - Ativo Civil
+9251,IPERON - FPC - Inativo Civil,9251 - IPERON - FPC - Inativo Civil
+9252,IPERON - FPC - Pensionis ta Civil,9252 - IPERON - FPC - Pensionis ta Civil
+9253,IPERON - FPC - Ativo Milita r,9253 - IPERON - FPC - Ativo Milita r
+9254,IPERON - FPC - Inativo Milita r,9254 - IPERON - FPC - Inativo Milita r
+9255,IPERON - FPC - Pensionis ta Militar,9255 - IPERON - FPC - Pensionis ta Militar
+9256,IPERON - FPC - Ativo Civil (E .A ),9256 - IPERON - FPC - Ativo Civil (E .A )
+9257,IPERON - FPC - Inativo Civil (E.A),9257 - IPERON - FPC - Inativo Civil (E.A)
+9258,IPERON - FPC - Pensionis ta Civil (E .A),9258 - IPERON - FPC - Pensionis ta Civil (E .A)
+9259,IPERON - FPC - Ativo Milita r (E.A ),9259 - IPERON - FPC - Ativo Milita r (E.A )
+9260,IPERON - FPC - Inativo Milita r (E.A ),9260 - IPERON - FPC - Inativo Milita r (E.A )
+9261,IPERON - FPC - Pensionista Militar (E.A ),9261 - IPERON - FPC - Pensionista Militar (E.A )
+9262,IPERON - FPC - Licenciado sem rem uneração,9262 - IPERON - FPC - Licenciado sem rem uneração
+9263,IPERON - FPC - Ativo Civil Cedido,9263 - IPERON - FPC - Ativo Civil Cedido
+9264,IPERON - FPC - Cont. P atr. A tivo Civil,9264 - IPERON - FPC - Cont. P atr. A tivo Civil
+9265,IPERON - FPC - Cont. Patr. Inativo Civil,9265 - IPERON - FPC - Cont. Patr. Inativo Civil
+9266,IPERON - FPC - Cont. P atr. P ensionista Civil,9266 - IPERON - FPC - Cont. P atr. P ensionista Civil
+9267,IPERON - FPC - Cont. P atr. A tivo Militar,9267 - IPERON - FPC - Cont. P atr. A tivo Militar
+9268,IPERON - FPC - Cont. Patr. Inativo Militar,9268 - IPERON - FPC - Cont. Patr. Inativo Militar
+9269,IPERON - FPC - Cont. P atr. P ensionista Militar,9269 - IPERON - FPC - Cont. P atr. P ensionista Militar
+9270,IPERON - FPC - Cont. Patr. A tivo Civil (E.A),9270 - IPERON - FPC - Cont. Patr. A tivo Civil (E.A)
+9271,IPERON - FPC - Cont. Patr. Inativo Civil (E .A),9271 - IPERON - FPC - Cont. Patr. Inativo Civil (E .A)
+9272,IPERON - FPC - Cont. P atr. P ensionista Civil (E.A),9272 - IPERON - FPC - Cont. P atr. P ensionista Civil (E.A)
+9273,IPERON - FPC - Cont. P atr. A tivo Militar (E .A ),9273 - IPERON - FPC - Cont. P atr. A tivo Militar (E .A )
+9274,IPERON - FPC - Cont. Patr. Inativo Militar (E .A ),9274 - IPERON - FPC - Cont. Patr. Inativo Militar (E .A )
+9275,IPERON - FPC - Cont. P atr. P ensionista Militar (E .A ),9275 - IPERON - FPC - Cont. P atr. P ensionista Militar (E .A )
+9276,IPERON - FPC - Cobert. Defice - Poder Executivo,9276 - IPERON - FPC - Cobert. Defice - Poder Executivo
+9277,IPERON - FPC - Cobert. Defice - Poder Legislativo,9277 - IPERON - FPC - Cobert. Defice - Poder Legislativo
+9278,IPERON - FPC - Cobert. Defice - Poder Judiciário,9278 - IPERON - FPC - Cobert. Defice - Poder Judiciário
+9279,IPERON - FPC - Cobert. Defice - TCE,9279 - IPERON - FPC - Cobert. Defice - TCE
+9280,IPERON - FPC - Cobert. Defice - MPE,9280 - IPERON - FPC - Cobert. Defice - MPE
+9281,IPERON - FPC - Cobert. Defice - PM/BM,9281 - IPERON - FPC - Cobert. Defice - PM/BM
+9282,IPERON - FPC - Devolução de Pensão do BM,9282 - IPERON - FPC - Devolução de Pensão do BM
+9283,IPERON - FPC - Cont. Patr. A tivo Civil Cedido,9283 - IPERON - FPC - Cont. Patr. A tivo Civil Cedido
+9284,IPERON - FPC - Cont. Patr. Licenciado sem remuneração,9284 - IPERON - FPC - Cont. Patr. Licenciado sem remuneração
+9285,IPERON- SESDEC- Servidor,9285 - IPERON- SESDEC- Servidor
+9286,IPERON- SESDEC- Patronal,9286 - IPERON- SESDEC- Patronal
+9287,IPERON- SESDEC- Outros,9287 - IPERON- SESDEC- Outros
+9288,IPERON- SESDEC- Lic s /venc- Servidor,9288 - IPERON- SESDEC- Lic s /venc- Servidor
+9289,IPERON- SESDEC- Lic s /venc- Patronal,9289 - IPERON- SESDEC- Lic s /venc- Patronal
+9290,IPERON- SESDEC- Juros/M /AtM - Servidor,9290 - IPERON- SESDEC- Juros/M /AtM - Servidor
+9291,IPERON- SESDEC- Juros/M /AtM - Patronal,9291 - IPERON- SESDEC- Juros/M /AtM - Patronal
+9292,IPERON- DETRAN- Servidor,9292 - IPERON- DETRAN- Servidor
+9293,IPERON- DETRAN- Patronal,9293 - IPERON- DETRAN- Patronal
+9294,IPERON- DETRAN- Outros,9294 - IPERON- DETRAN- Outros
+9295,IPERON- DETRAN- Lic s /venc- Servidor,9295 - IPERON- DETRAN- Lic s /venc- Servidor
+9296,IPERON- DETRAN- Lic s /venc- Patronal,9296 - IPERON- DETRAN- Lic s /venc- Patronal
+9297,IPERON- DETRAN- Juros/M /AtM - Servidor,9297 - IPERON- DETRAN- Juros/M /AtM - Servidor
+9298,IPERON- DETRAN- Juros/M /AtM - Patronal,9298 - IPERON- DETRAN- Juros/M /AtM - Patronal
+9299,IPERON- SEDUC- Servidor,9299 - IPERON- SEDUC- Servidor
+9300,IPERON- SEDUC- Patronal,9300 - IPERON- SEDUC- Patronal
+9301,IPERON- SEDUC- Outros,9301 - IPERON- SEDUC- Outros
+9302,IPERON- SEDUC- Lic s/venc- Servidor,9302 - IPERON- SEDUC- Lic s/venc- Servidor
+9303,IPERON- SEDUC- Lic s/venc- Patronal,9303 - IPERON- SEDUC- Lic s/venc- Patronal
+9304,IPERON- SEDUC- Juros/M/AtM - Servidor,9304 - IPERON- SEDUC- Juros/M/AtM - Servidor
+9305,IPERON- SEDUC- Juros/M/AtM - Patronal,9305 - IPERON- SEDUC- Juros/M/AtM - Patronal
+9306,IPERON- SESAU- Servidor,9306 - IPERON- SESAU- Servidor
+9307,IPERON- SESAU- Patronal,9307 - IPERON- SESAU- Patronal
+9308,IPERON- SESAU- Outros,9308 - IPERON- SESAU- Outros
+9309,IPERON- SESAU- Lic s/venc- Servidor,9309 - IPERON- SESAU- Lic s/venc- Servidor
+9310,IPERON- SESAU- Lic s /venc- Patronal,9310 - IPERON- SESAU- Lic s /venc- Patronal
+9311,IPERON- SESAU- Juros/M/AtM - Servidor,9311 - IPERON- SESAU- Juros/M/AtM - Servidor
+9312,IPERON- SESAU- Juros/M/AtM - Patronal,9312 - IPERON- SESAU- Juros/M/AtM - Patronal
+9313,IPERON- CETAS- Servidor,9313 - IPERON- CETAS- Servidor
+9314,IPERON- CETAS- Patronal,9314 - IPERON- CETAS- Patronal
+9315,IPERON- CETAS- Outros,9315 - IPERON- CETAS- Outros
+9316,IPERON- CETAS- Lic s/venc- Servidor,9316 - IPERON- CETAS- Lic s/venc- Servidor
+9317,IPERON- CETAS- Lic s/venc- Patronal,9317 - IPERON- CETAS- Lic s/venc- Patronal
+9318,IPERON- CETAS- Juros/M /A tM - Servidor,9318 - IPERON- CETAS- Juros/M /A tM - Servidor
+9319,IPERON- CETAS- Juros/M /A tM - Patronal,9319 - IPERON- CETAS- Juros/M /A tM - Patronal
+9320,IPERON- FHEMERON- Servidor,9320 - IPERON- FHEMERON- Servidor
+9321,IPERON- FHEMERON- Patrona l,9321 - IPERON- FHEMERON- Patrona l
+9322,IPERON- FHEMERON- Outros,9322 - IPERON- FHEMERON- Outros
+9323,IPERON- FHEMERON- Lic s/venc- Servidor,9323 - IPERON- FHEMERON- Lic s/venc- Servidor
+9324,IPERON- FHEMERON- Lic s/venc- Patronal,9324 - IPERON- FHEMERON- Lic s/venc- Patronal
+9325,IPERON- FHEMERON- Juros/M /AtM - Servidor,9325 - IPERON- FHEMERON- Juros/M /AtM - Servidor
+9326,IPERON- FHEMERON- Juros/M /AtM - Patronal,9326 - IPERON- FHEMERON- Juros/M /AtM - Patronal
+9327,IPERON- AGEVISA- Servidor,9327 - IPERON- AGEVISA- Servidor
+9328,IPERON- AGEVISA- Patronal,9328 - IPERON- AGEVISA- Patronal
+9329,IPERON- AGEVISA- Outros,9329 - IPERON- AGEVISA- Outros
+9330,IPERON- AGEVISA- Lic s/venc- Servidor,9330 - IPERON- AGEVISA- Lic s/venc- Servidor
+9331,IPERON- AGEVISA- Lic s/venc- Patronal,9331 - IPERON- AGEVISA- Lic s/venc- Patronal
+9332,IPERON- AGEVISA- Juros/M /A tM - Servidor,9332 - IPERON- AGEVISA- Juros/M /A tM - Servidor
+9333,IPERON- AGEVISA- Juros/M /A tM - Patronal,9333 - IPERON- AGEVISA- Juros/M /A tM - Patronal
+9334,IPERON- SEDAM- Servidor,9334 - IPERON- SEDAM- Servidor
+9335,IPERON- SEDAM- Patronal,9335 - IPERON- SEDAM- Patronal
+9336,IPERON- SEDAM- Outros,9336 - IPERON- SEDAM- Outros
+9337,IPERON- SEDAM- Lic s/venc- Servidor,9337 - IPERON- SEDAM- Lic s/venc- Servidor
+9338,IPERON- SEDAM- Lic s/venc- Patronal,9338 - IPERON- SEDAM- Lic s/venc- Patronal
+9339,IPERON- SEDAM- Juros/M /A tM - Servidor,9339 - IPERON- SEDAM- Juros/M /A tM - Servidor
+9340,IPERON- SEDAM- Juros/M /A tM - Patronal,9340 - IPERON- SEDAM- Juros/M /A tM - Patronal
+9341,IPERON- SEAPES- Servidor,9341 - IPERON- SEAPES- Servidor
+9342,IPERON- SEAPES- Patronal,9342 - IPERON- SEAPES- Patronal
+9343,IPERON- SEAPES- Outros,9343 - IPERON- SEAPES- Outros
+9344,IPERON- SEAPES- Lic s/venc- Servidor,9344 - IPERON- SEAPES- Lic s/venc- Servidor
+9345,IPERON- SEAPES- Lic s/venc- Patronal,9345 - IPERON- SEAPES- Lic s/venc- Patronal
+9346,IPERON- SEAPES- Juros/M/A tM- Servidor,9346 - IPERON- SEAPES- Juros/M/A tM- Servidor
+9347,IPERON- SEAPES- Juros/M/A tM- Patronal,9347 - IPERON- SEAPES- Juros/M/A tM- Patronal
+9348,IPERON- IPEM- Servidor,9348 - IPERON- IPEM- Servidor
+9349,IPERON- IPEM- Patronal,9349 - IPERON- IPEM- Patronal
+9350,IPERON- IPEM- Outros,9350 - IPERON- IPEM- Outros
+9351,IPERON- IPEM- Lic s/venc- Servidor,9351 - IPERON- IPEM- Lic s/venc- Servidor
+9352,IPERON- IPEM- Lic s/venc- Patronal,9352 - IPERON- IPEM- Lic s/venc- Patronal
+9353,IPERON- IPEM- Juros/M/A tM - Servidor,9353 - IPERON- IPEM- Juros/M/A tM - Servidor
+9354,IPERON- IPEM- Juros/M/A tM - Patronal,9354 - IPERON- IPEM- Juros/M/A tM - Patronal
+9355,IPERON- JUCER- Servidor,9355 - IPERON- JUCER- Servidor
+9356,IPERON- JUCER- Patronal,9356 - IPERON- JUCER- Patronal
+9357,IPERON- JUCER- Outros,9357 - IPERON- JUCER- Outros
+9358,IPERON- JUCER- Lic s/venc- Servidor,9358 - IPERON- JUCER- Lic s/venc- Servidor
+9359,IPERON- JUCER- Lic s/venc- Patronal,9359 - IPERON- JUCER- Lic s/venc- Patronal
+9360,IPERON- JUCER- Juros/M /A tM - Servidor,9360 - IPERON- JUCER- Juros/M /A tM - Servidor
+9361,IPERON- JUCER- Juros/M /A tM - Patronal,9361 - IPERON- JUCER- Juros/M /A tM - Patronal
+9362,IPERON- IDARON- Servidor,9362 - IPERON- IDARON- Servidor
+9363,IPERON- IDARON- Patronal,9363 - IPERON- IDARON- Patronal
+9364,IPERON- IDARON- Outros,9364 - IPERON- IDARON- Outros
+9365,IPERON- IDARON- Lic s/venc- Servidor,9365 - IPERON- IDARON- Lic s/venc- Servidor
+9366,IPERON- IDARON- Lic s/venc- Patronal,9366 - IPERON- IDARON- Lic s/venc- Patronal
+9367,IPERON- IDARON- Juros/M /A tM - Servidor,9367 - IPERON- IDARON- Juros/M /A tM - Servidor
+9368,IPERON- IDARON- Juros/M /A tM - Patronal,9368 - IPERON- IDARON- Juros/M /A tM - Patronal
+9369,IPERON- SECEL- Servidor,9369 - IPERON- SECEL- Servidor
+9370,IPERON- SECEL- Patronal,9370 - IPERON- SECEL- Patronal
+9371,IPERON- SECEL- Outros,9371 - IPERON- SECEL- Outros
+9372,IPERON- SECEL- Lic s/venc- Servidor,9372 - IPERON- SECEL- Lic s/venc- Servidor
+9373,IPERON- SECEL- Lic s/venc- Patronal,9373 - IPERON- SECEL- Lic s/venc- Patronal
+9374,IPERON- SECEL- Juros/M /AtM - Servidor,9374 - IPERON- SECEL- Juros/M /AtM - Servidor
+9375,IPERON- SECEL- Juros/M /AtM - Patronal,9375 - IPERON- SECEL- Juros/M /AtM - Patronal
+9376,IPERON- SEAPEN- Servidor,9376 - IPERON- SEAPEN- Servidor
+9377,IPERON- SEAPEN- Patronal,9377 - IPERON- SEAPEN- Patronal
+9378,IPERON- SEAPEN- Outros,9378 - IPERON- SEAPEN- Outros
+9379,IPERON- SEAPEN- Lic s/venc- Servidor,9379 - IPERON- SEAPEN- Lic s/venc- Servidor
+9380,IPERON- SEAPEN- Lic s/venc- Patronal,9380 - IPERON- SEAPEN- Lic s/venc- Patronal
+9381,IPERON- SEAPEN- Juros/M /A tM - Servidor,9381 - IPERON- SEAPEN- Juros/M /A tM - Servidor
+9382,IPERON- SEAPEN- Juros/M /A tM - Patronal,9382 - IPERON- SEAPEN- Juros/M /A tM - Patronal
+9383,IPERON- SEAD- Servidor,9383 - IPERON- SEAD- Servidor
+9384,IPERON- SEAD- Patronal,9384 - IPERON- SEAD- Patronal
+9385,IPERON- SEAD- Outros,9385 - IPERON- SEAD- Outros
+9386,IPERON- SEAD- Lic s/venc- Servidor,9386 - IPERON- SEAD- Lic s/venc- Servidor
+9387,IPERON- SEAD- Lic s/venc- Patronal,9387 - IPERON- SEAD- Lic s/venc- Patronal
+9388,IPERON- SEAD- Juros/M /AtM - Servidor,9388 - IPERON- SEAD- Juros/M /AtM - Servidor
+9389,IPERON- SEAD- Juros/M /AtM - Patronal,9389 - IPERON- SEAD- Juros/M /AtM - Patronal
+9390,IPERON- IPERON- Servidor,9390 - IPERON- IPERON- Servidor
+9391,IPERON- IPERON- Patronal,9391 - IPERON- IPERON- Patronal
+9392,IPERON- IPERON- Outros,9392 - IPERON- IPERON- Outros
+9393,IPERON- IPERON- Lic s/venc- Servidor,9393 - IPERON- IPERON- Lic s/venc- Servidor
+9394,IPERON- IPERON- Lic s/venc- Patronal,9394 - IPERON- IPERON- Lic s/venc- Patronal
+9395,IPERON- IPERON- Juros/M/AtM- Servidor,9395 - IPERON- IPERON- Juros/M/AtM- Servidor
+9396,IPERON- IPERON- Juros/M/AtM- Patronal,9396 - IPERON- IPERON- Juros/M/AtM- Patronal
+9397,IPERON- MP- Servidor,9397 - IPERON- MP- Servidor
+9398,IPERON- MP- Patronal,9398 - IPERON- MP- Patronal
+9399,IPERON- MP- Outros,9399 - IPERON- MP- Outros
+9400,IPERON- MP- L ic s/venc- Servidor,9400 - IPERON- MP- L ic s/venc- Servidor
+9401,IPERON- MP- L ic s/venc- Patronal,9401 - IPERON- MP- L ic s/venc- Patronal
+9402,IPERON- MP- Juros/M /A tM - Servidor,9402 - IPERON- MP- Juros/M /A tM - Servidor
+9403,IPERON- MP- Juros/M /A tM - Patronal,9403 - IPERON- MP- Juros/M /A tM - Patronal
+9404,IPERON- DPE- Servidor,9404 - IPERON- DPE- Servidor
+9405,IPERON- DPE- Patronal,9405 - IPERON- DPE- Patronal
+9406,IPERON- DPE- Outros,9406 - IPERON- DPE- Outros
+9407,IPERON- DPE- Lic s/venc- Servidor,9407 - IPERON- DPE- Lic s/venc- Servidor
+9408,IPERON- DPE- Lic s/venc- Patronal,9408 - IPERON- DPE- Lic s/venc- Patronal
+9409,IPERON- DPE- Juro s/M /A tM - Servidor,9409 - IPERON- DPE- Juro s/M /A tM - Servidor
+9410,IPERON- DPE- Juro s/M /A tM - Patronal,9410 - IPERON- DPE- Juro s/M /A tM - Patronal
+9411,IPERON- TRE- Servidor,9411 - IPERON- TRE- Servidor
+9412,IPERON- TRE- Patronal,9412 - IPERON- TRE- Patronal
+9413,IPERON- TRE- Outros,9413 - IPERON- TRE- Outros
+9414,IPERON- TRE- Juros/M /AtM- Servidor,9414 - IPERON- TRE- Juros/M /AtM- Servidor
+9415,IPERON- TRE- Juros/M /AtM- Patronal,9415 - IPERON- TRE- Juros/M /AtM- Patronal
+9416,IPERON- TRT- Servidor,9416 - IPERON- TRT- Servidor
+9417,IPERON- TRT- Patronal,9417 - IPERON- TRT- Patronal
+9418,IPERON- TRT- Outros,9418 - IPERON- TRT- Outros
+9419,IPERON- TRT- Juros/M /AtM - Servidor,9419 - IPERON- TRT- Juros/M /AtM - Servidor
+9420,IPERON- TRT- Juros/M /AtM - Patronal,9420 - IPERON- TRT- Juros/M /AtM - Patronal
+9421,IPERON- SENADO FED- Servidor,9421 - IPERON- SENADO FED- Servidor
+9422,IPERON- SENADO FED- Patronal,9422 - IPERON- SENADO FED- Patronal
+9423,IPERON- SENADO FED- Outros,9423 - IPERON- SENADO FED- Outros
+9424,IPERON- SENADO FED- Juros/M /A tM - Servidor,9424 - IPERON- SENADO FED- Juros/M /A tM - Servidor
+9425,IPERON- SENADO FED- Juros/M /A tM - Patronal,9425 - IPERON- SENADO FED- Juros/M /A tM - Patronal
+9426,IPERON- CAMARA DEP- Servidor,9426 - IPERON- CAMARA DEP- Servidor
+9427,IPERON- CAMARA DEP- Patronal,9427 - IPERON- CAMARA DEP- Patronal
+9428,IPERON- CAMARA DEP- Outros,9428 - IPERON- CAMARA DEP- Outros
+9429,IPERON- CAMARA DEP- Juros/M /A tM- Servidor,9429 - IPERON- CAMARA DEP- Juros/M /A tM- Servidor
+9430,IPERON- CAMARA DEP- Juros/M /A tM- Patronal,9430 - IPERON- CAMARA DEP- Juros/M /A tM- Patronal
+9431,IPERON- CAMARAS MUN- Servidor,9431 - IPERON- CAMARAS MUN- Servidor
+9432,IPERON- CAMARAS MUN- Patronal,9432 - IPERON- CAMARAS MUN- Patronal
+9433,IPERON- CAMARAS MUN- Outros,9433 - IPERON- CAMARAS MUN- Outros
+9434,IPERON- CAMARAS MUN- Juros/M/AtM - Servidor,9434 - IPERON- CAMARAS MUN- Juros/M/AtM - Servidor
+9435,IPERON- CAMARAS MUN- Juros/M/AtM - Patronal,9435 - IPERON- CAMARAS MUN- Juros/M/AtM - Patronal
+9436,IPERON- PREF ALTA FLORESTA- Servidor,9436 - IPERON- PREF ALTA FLORESTA- Servidor
+9437,IPERON- PREF ALTA FLORESTA- Patronal,9437 - IPERON- PREF ALTA FLORESTA- Patronal
+9438,IPERON- PREF ALTA FLORESTA- Outros,9438 - IPERON- PREF ALTA FLORESTA- Outros
+9439,IPERON- PREF A FLORESTA- Juros/M /A tM - Servidor,9439 - IPERON- PREF A FLORESTA- Juros/M /A tM - Servidor
+9440,IPERON- PREF A FLORESTA- Juros/M /A tM - Patronal,9440 - IPERON- PREF A FLORESTA- Juros/M /A tM - Patronal
+9441,IPERON- PREF ARIQUEMES- Servidor,9441 - IPERON- PREF ARIQUEMES- Servidor
+9443,IPERON- PREF ARIQUEMES- Outros,9443 - IPERON- PREF ARIQUEMES- Outros
+9444,IPERON- PREF ARIQUEMES- Juros/M /A tM - Servidor,9444 - IPERON- PREF ARIQUEMES- Juros/M /A tM - Servidor
+9445,IPERON- PREF ARIQUEMES- Juros/M /A tM - Patronal,9445 - IPERON- PREF ARIQUEMES- Juros/M /A tM - Patronal
+9446,IPERON- PREF CABIXI- Servidor,9446 - IPERON- PREF CABIXI- Servidor
+9447,IPERON- PREF CABIXI- Patronal,9447 - IPERON- PREF CABIXI- Patronal
+9448,IPERON- PREF CABIXI- Outros,9448 - IPERON- PREF CABIXI- Outros
+9449,IPERON- PREF CABIXI- Juro s/M /A tM - Servidor,9449 - IPERON- PREF CABIXI- Juro s/M /A tM - Servidor
+9450,IPERON- PREF CABIXI- Juro s/M /A tM - Patronal,9450 - IPERON- PREF CABIXI- Juro s/M /A tM - Patronal
+9451,IPERON- PREF CACOAL- Servidor,9451 - IPERON- PREF CACOAL- Servidor
+9452,IPERON- PREF CACOAL- Patronal,9452 - IPERON- PREF CACOAL- Patronal
+9453,IPERON- PREF CACOAL- Outros,9453 - IPERON- PREF CACOAL- Outros
+9454,IPERON- PREF CACOAL- Juros/M/AtM - Servidor,9454 - IPERON- PREF CACOAL- Juros/M/AtM - Servidor
+9455,IPERON- PREF CACOAL- Juros/M/AtM - Patronal,9455 - IPERON- PREF CACOAL- Juros/M/AtM - Patronal
+9456,IPERON- PREF CEREJEIRAS- Servidor,9456 - IPERON- PREF CEREJEIRAS- Servidor
+9457,IPERON- PREF CEREJEIRAS- Patronal,9457 - IPERON- PREF CEREJEIRAS- Patronal
+9458,IPERON- PREF CEREJEIRAS- Outros,9458 - IPERON- PREF CEREJEIRAS- Outros
+9459,IPERON- PREF CEREJEIRAS- Juros/M /AtM- Servidor,9459 - IPERON- PREF CEREJEIRAS- Juros/M /AtM- Servidor
+9460,IPERON- PREF CEREJEIRAS- Juros/M /AtM- Patronal,9460 - IPERON- PREF CEREJEIRAS- Juros/M /AtM- Patronal
+9461,IPERON- PREF COLORADO D 'OESTE- Servidor,9461 - IPERON- PREF COLORADO D 'OESTE- Servidor
+9462,IPERON- PREF COLORADO D 'OESTE- Patronal,9462 - IPERON- PREF COLORADO D 'OESTE- Patronal
+9463,IPERON- PREF COLORADO D 'OESTE- Outros,9463 - IPERON- PREF COLORADO D 'OESTE- Outros
+9464,IPERON- PREF COLORADO- Juros/M /AtM - Servidor,9464 - IPERON- PREF COLORADO- Juros/M /AtM - Servidor
+9465,IPERON- PREF COLORADO- Juros/M /AtM - Patronal,9465 - IPERON- PREF COLORADO- Juros/M /AtM - Patronal
+9466,IPERON- PREF CORUMBIARA- Servidor,9466 - IPERON- PREF CORUMBIARA- Servidor
+9467,IPERON- PREF CORÚMBIARA- Patronal,9467 - IPERON- PREF CORÚMBIARA- Patronal
+9468,IPERON- PREF CORUMBIARA- Outros,9468 - IPERON- PREF CORUMBIARA- Outros
+9469,IPERON- PREF CORUMBIARA- Juros/M/AtM- Servidor,9469 - IPERON- PREF CORUMBIARA- Juros/M/AtM- Servidor
+9470,IPERON- PREF CORUMBIARA- Juros/M/AtM- Patronal,9470 - IPERON- PREF CORUMBIARA- Juros/M/AtM- Patronal
+9471,IPERON- PREF COSTA MARQUES- Servidor,9471 - IPERON- PREF COSTA MARQUES- Servidor
+9472,IPERON- PREF COSTA MARQUES- Patronal,9472 - IPERON- PREF COSTA MARQUES- Patronal
+9473,IPERON- PREF COSTA MARQUES- Outros,9473 - IPERON- PREF COSTA MARQUES- Outros
+9474,IPERON- PREF C MARQUES- Juros/M /AtM - Servidor,9474 - IPERON- PREF C MARQUES- Juros/M /AtM - Servidor
+9475,IPERON- PREF C MARQUES- Juros/M /AtM - Patronal,9475 - IPERON- PREF C MARQUES- Juros/M /AtM - Patronal
+9476,IPERON- PREF ESP IGÃO D'OESTE- Servidor,9476 - IPERON- PREF ESP IGÃO D'OESTE- Servidor
+9477,IPERON- PREF ESP IGAO D'OESTE- Patronal,9477 - IPERON- PREF ESP IGAO D'OESTE- Patronal
+9478,IPERON- PREF ESP IGÃO D'OESTE- Outros,9478 - IPERON- PREF ESP IGÃO D'OESTE- Outros
+9479,IPERON- PREF ESP IGÃO- Juros/M /AtM- Servidor,9479 - IPERON- PREF ESP IGÃO- Juros/M /AtM- Servidor
+9480,IPERON- PREF ESP IGÃO- Juros/M /AtM- Patronal,9480 - IPERON- PREF ESP IGÃO- Juros/M /AtM- Patronal
+9481,IPERON- PREF GUAJARA MIR IM - Servidor,9481 - IPERON- PREF GUAJARA MIR IM - Servidor
+9482,IPERON- PREF GUAJARA MIR IM - Patronal,9482 - IPERON- PREF GUAJARA MIR IM - Patronal
+9483,IPERON- PREF GUAJARA MIR IM - Outros,9483 - IPERON- PREF GUAJARA MIR IM - Outros
+9484,IPERON- PREF G MIR IM - Juros /M/A tM - Servidor,9484 - IPERON- PREF G MIR IM - Juros /M/A tM - Servidor
+9485,IPERON- PREF G MIR IM - Juros /M/A tM - Patronal,9485 - IPERON- PREF G MIR IM - Juros /M/A tM - Patronal
+9486,IPERON- PREF JARU- Servidor,9486 - IPERON- PREF JARU- Servidor
+9487,IPERON- PREF JARU- Patronal,9487 - IPERON- PREF JARU- Patronal
+9488,IPERON- PREF JARU- Outros,9488 - IPERON- PREF JARU- Outros
+9489,IPERON- PREF JARU- Juros/M/AtM- Servidor,9489 - IPERON- PREF JARU- Juros/M/AtM- Servidor
+9490,IPERON- PREF JARU- Juros/M/AtM- Patronal,9490 - IPERON- PREF JARU- Juros/M/AtM- Patronal
+9491,IPERON- PREF JI-PARANA- Servidor,9491 - IPERON- PREF JI-PARANA- Servidor
+9492,IPERON- PREF JI-PARANA- Patronal,9492 - IPERON- PREF JI-PARANA- Patronal
+9493,IPERON- PREF JI-PARANA- Outros,9493 - IPERON- PREF JI-PARANA- Outros
+9494,IPERON- PREF JI-PARANA- Juros/M /AtM - Servidor,9494 - IPERON- PREF JI-PARANA- Juros/M /AtM - Servidor
+9495,IPERON- PREF JI-PARANA- Juros/M /AtM - Patronal,9495 - IPERON- PREF JI-PARANA- Juros/M /AtM - Patronal
+9496,IPERON- PREF MACHADINHO D'OESTE- Servidor,9496 - IPERON- PREF MACHADINHO D'OESTE- Servidor
+9497,IPERON- PREF MACHADINHO D'OESTE- Patronal,9497 - IPERON- PREF MACHADINHO D'OESTE- Patronal
+9498,IPERON- PREF MACHADINHO D'OESTE- Outros,9498 - IPERON- PREF MACHADINHO D'OESTE- Outros
+9499,IPERON- PREF MACHADINHO- Juros/M /AtM- Servidor,9499 - IPERON- PREF MACHADINHO- Juros/M /AtM- Servidor
+9500,IPERON- PREF MACHADINHO- Juros/M /AtM- Patronal,9500 - IPERON- PREF MACHADINHO- Juros/M /AtM- Patronal
+9501,IPERON- PREF NOVA BRASILANDIA- Servidor,9501 - IPERON- PREF NOVA BRASILANDIA- Servidor
+9502,IPERON- PREF NOVA BRASILANDIA- Patronal,9502 - IPERON- PREF NOVA BRASILANDIA- Patronal
+9503,IPERON- PREF NOVA BRASILANDIA- Outros,9503 - IPERON- PREF NOVA BRASILANDIA- Outros
+9504,IPERON- PREF N BRASILANDIA- Juros/M /AtM- Servidor,9504 - IPERON- PREF N BRASILANDIA- Juros/M /AtM- Servidor
+9505,IPERON- PREF N BRASILANDIA- Juros/M /AtM- Patronal,9505 - IPERON- PREF N BRASILANDIA- Juros/M /AtM- Patronal
+9506,IPERON- PREF OURO PRETO- Servidor,9506 - IPERON- PREF OURO PRETO- Servidor
+9507,IPERON- PREF OURO PRETO- Patronal,9507 - IPERON- PREF OURO PRETO- Patronal
+9508,IPERON- PREF OURO PRETO- Outros,9508 - IPERON- PREF OURO PRETO- Outros
+9509,IPERON- PREF OURO PRETO- Juros/M /AtM- Servidor,9509 - IPERON- PREF OURO PRETO- Juros/M /AtM- Servidor
+9510,IPERON- PREF OURO PRETO- Juros/M /AtM- Patronal,9510 - IPERON- PREF OURO PRETO- Juros/M /AtM- Patronal
+9511,IPERON- PREF P IMENTA BUENO- Servidor,9511 - IPERON- PREF P IMENTA BUENO- Servidor
+9512,IPERON- PREF P IMENTA BUENO- Patronal,9512 - IPERON- PREF P IMENTA BUENO- Patronal
+9513,IPERON- PREF P IMENTA BUENO- Outros,9513 - IPERON- PREF P IMENTA BUENO- Outros
+9514,IPERON- PREF P BUENO- Juros/M /AtM- Servidor,9514 - IPERON- PREF P BUENO- Juros/M /AtM- Servidor
+9515,IPERON- PREF P BUENO- Juros/M /AtM- Patronal,9515 - IPERON- PREF P BUENO- Juros/M /AtM- Patronal
+9516,IPERON- PREF PORTO VELHO- Servidor,9516 - IPERON- PREF PORTO VELHO- Servidor
+9517,IPERON- PREF PORTO VELHO- Patronal,9517 - IPERON- PREF PORTO VELHO- Patronal
+9518,IPERON- PREF PORTO VELHO- Outros,9518 - IPERON- PREF PORTO VELHO- Outros
+9519,IPERON- PREF P VELHO- Juros/M/A tM - Servidor,9519 - IPERON- PREF P VELHO- Juros/M/A tM - Servidor
+9520,IPERON- PREF P VELHO- Juros/M/A tM - Patronal,9520 - IPERON- PREF P VELHO- Juros/M/A tM - Patronal
+9521,IPERON- PREF PRES IDENTE MEDICI- Servidor,9521 - IPERON- PREF PRES IDENTE MEDICI- Servidor
+6522,IPERON- PREF PRES IDENTE MEDICI- Patronal,6522 - IPERON- PREF PRES IDENTE MEDICI- Patronal
+9523,IPERON- PREF PRES IDENTE MEDICI- Outros,9523 - IPERON- PREF PRES IDENTE MEDICI- Outros
+9524,IPERON- PREF P MEDICI- Juros/M/A tM - Servidor,9524 - IPERON- PREF P MEDICI- Juros/M/A tM - Servidor
+9525,IPERON- PREF P MEDICI- Juros/M/A tM - Patronal,9525 - IPERON- PREF P MEDICI- Juros/M/A tM - Patronal
+9526,IPERON- PREF RIO CRESPO- Servidor,9526 - IPERON- PREF RIO CRESPO- Servidor
+9527,IPERON- PREF RIO CRESPO- Patronal,9527 - IPERON- PREF RIO CRESPO- Patronal
+9528,IPERON- PREF RIO CRESPO- Outros,9528 - IPERON- PREF RIO CRESPO- Outros
+9529,IPERON- PREF R CRESPO- Juros/M /AtM - Servidor,9529 - IPERON- PREF R CRESPO- Juros/M /AtM - Servidor
+9530,IPERON- PREF R CRESPO- Juros/M /AtM - Patronal,9530 - IPERON- PREF R CRESPO- Juros/M /AtM - Patronal
+9531,IPERON- PREF ROLlM DE MOURA- Servidor,9531 - IPERON- PREF ROLlM DE MOURA- Servidor
+9532,IPERON- PREF ROLlM DE MOURA- Patronal,9532 - IPERON- PREF ROLlM DE MOURA- Patronal
+9533,IPERON- PREF ROLlM DE MOURA- Outros,9533 - IPERON- PREF ROLlM DE MOURA- Outros
+9534,IPERON- PREF R MOURA- Juros/M/AtM- Servidor,9534 - IPERON- PREF R MOURA- Juros/M/AtM- Servidor
+9535,IPERON- PREF R MOURA- Juros/M /AtM - Patronal,9535 - IPERON- PREF R MOURA- Juros/M /AtM - Patronal
+9536,IPERON- PREF SANTA LUZIA D'OESTE- Servidor,9536 - IPERON- PREF SANTA LUZIA D'OESTE- Servidor
+9537,IPERON- PREF SANTA LUZIA D'OESTE- Patronal,9537 - IPERON- PREF SANTA LUZIA D'OESTE- Patronal
+9538,IPERON- PREF SANTA LUZIA D'OESTE- Outros,9538 - IPERON- PREF SANTA LUZIA D'OESTE- Outros
+9539,IPERON- PREF SANTA LUZIA- Juros/M /AtM - Servidor,9539 - IPERON- PREF SANTA LUZIA- Juros/M /AtM - Servidor
+9540,IPERON- PREF SANTA LUZIA- Juros/M /AtM - Patronal,9540 - IPERON- PREF SANTA LUZIA- Juros/M /AtM - Patronal
+9541,IPERON- PRE F V ILHENA- Servidor,9541 - IPERON- PRE F V ILHENA- Servidor
+9542,IPERON- PRE F V ILHENA- Patronal,9542 - IPERON- PRE F V ILHENA- Patronal
+9543,IPERON- PRE F V ILHENA- Outros,9543 - IPERON- PRE F V ILHENA- Outros
+9544,IPERON- PRE F V ILHENA- Juros/M/AtM- Servidor,9544 - IPERON- PRE F V ILHENA- Juros/M/AtM- Servidor
+9545,IPERON- PRE F V ILHENA- Juros/M/AtM- Patronal,9545 - IPERON- PRE F V ILHENA- Juros/M/AtM- Patronal
+9546,IPERON- PREF S MIGUEL GUAPORE- Servidor,9546 - IPERON- PREF S MIGUEL GUAPORE- Servidor
+9547,IPERON- PREF S MIGUEL GUAPORE- Patronal,9547 - IPERON- PREF S MIGUEL GUAPORE- Patronal
+9548,IPERON- PREF S MIGUEL GUAPORE- Outros,9548 - IPERON- PREF S MIGUEL GUAPORE- Outros
+9549,IPERON- PREF S MIGUEL- Juro s/M/A tM - Servidor,9549 - IPERON- PREF S MIGUEL- Juro s/M/A tM - Servidor
+9550,IPERON- PREF S MIGUEL- Juro s/M/A tM - Patronal,9550 - IPERON- PREF S MIGUEL- Juro s/M/A tM - Patronal
+9551,IPERON- PREF NOVA MAMORE- Servidor,9551 - IPERON- PREF NOVA MAMORE- Servidor
+9552,IPERON- PREF NOVA MAMORE- Patronal,9552 - IPERON- PREF NOVA MAMORE- Patronal
+9553,IPERON- PREF NOVA MAMORE- Outros,9553 - IPERON- PREF NOVA MAMORE- Outros
+9554,IPERON- PREF N MAMORE- Juros/M /A tM - Servidor,9554 - IPERON- PREF N MAMORE- Juros/M /A tM - Servidor
+9555,IPERON- PREF N MAMORE- Juros/M /A tM - Patronal,9555 - IPERON- PREF N MAMORE- Juros/M /A tM - Patronal
+9556,IPERON- PREF ALVORADA D'OESTE- Servidor,9556 - IPERON- PREF ALVORADA D'OESTE- Servidor
+9557,IPERON- PREF ALVORADA D'OESTE- Patrona l,9557 - IPERON- PREF ALVORADA D'OESTE- Patrona l
+9558,IPERON- PREF ALVORADA D'OESTE- Outros,9558 - IPERON- PREF ALVORADA D'OESTE- Outros
+9559,IPERON- PREF ALVORADA- Juros/M /AtM - Servidor,9559 - IPERON- PREF ALVORADA- Juros/M /AtM - Servidor
+9560,IPERON- PREF ALVORADA- Juros/M /AtM - Patronal,9560 - IPERON- PREF ALVORADA- Juros/M /AtM - Patronal
+9561,IPERON- PREF ALTO ALEGRE- Servidor,9561 - IPERON- PREF ALTO ALEGRE- Servidor
+9562,IPERON- PREF ALTO ALEGRE- Patronal,9562 - IPERON- PREF ALTO ALEGRE- Patronal
+9563,IPERON- PREF ALTO ALEGRE- Outros,9563 - IPERON- PREF ALTO ALEGRE- Outros
+9564,IPERON- PREF A ALEGRE- Juro s/M /A tM - Servidor,9564 - IPERON- PREF A ALEGRE- Juro s/M /A tM - Servidor
+9565,IPERON- PREF A ALEGRE- Juro s/M /A tM - Patronal,9565 - IPERON- PREF A ALEGRE- Juro s/M /A tM - Patronal
+9566,IPERON- PREF ALTO PARAISO- Servidor,9566 - IPERON- PREF ALTO PARAISO- Servidor
+9567,IPERON- PREF ALTO PARAISO- Patronal,9567 - IPERON- PREF ALTO PARAISO- Patronal
+9568,IPERON- PREF ALTO PARAISO- Outros,9568 - IPERON- PREF ALTO PARAISO- Outros
+9569,IPERON- PREF A PARA ISO- Juros/M /A tM - Servidor,9569 - IPERON- PREF A PARA ISO- Juros/M /A tM - Servidor
+9570,IPERON- PREF A PARA ISO- Juros/M /A tM - Patronal,9570 - IPERON- PREF A PARA ISO- Juros/M /A tM - Patronal
+9571,IPERON- PREF BURITIS- Servidor,9571 - IPERON- PREF BURITIS- Servidor
+9572,IPERON- PREF BURITIS- Patronal,9572 - IPERON- PREF BURITIS- Patronal
+9573,IPERON- PREF BURITIS- Outros,9573 - IPERON- PREF BURITIS- Outros
+9574,IPERON- PREF BURITIS- Juros/M /AtM - Servidor,9574 - IPERON- PREF BURITIS- Juros/M /AtM - Servidor
+9575,IPERON- PREF BURITIS- Juros/M /AtM - Patronal,9575 - IPERON- PREF BURITIS- Juros/M /AtM - Patronal
+9576,IPERON- PREF NOVO HORIZONTE- Servidor,9576 - IPERON- PREF NOVO HORIZONTE- Servidor
+9577,IPERON- PREF NOVO HORIZONTE- Patronal,9577 - IPERON- PREF NOVO HORIZONTE- Patronal
+9578,IPERON- PREF NOVO HORIZONTE- Outros,9578 - IPERON- PREF NOVO HORIZONTE- Outros
+9579,IPERON- PREF N HORIZONTE- Juros/M/A tM - Servidor,9579 - IPERON- PREF N HORIZONTE- Juros/M/A tM - Servidor
+9580,IPERON- PREF N HORIZONTE- Juros/M/A tM - Patronal,9580 - IPERON- PREF N HORIZONTE- Juros/M/A tM - Patronal
+9581,IPERON- PREF CACAULANDIA- Servidor,9581 - IPERON- PREF CACAULANDIA- Servidor
+9582,IPERON- PREF CACAULANDIA- Patronal,9582 - IPERON- PREF CACAULANDIA- Patronal
+9583,IPERON- PREF CACAULANDIA- Outros,9583 - IPERON- PREF CACAULANDIA- Outros
+9584,IPERON- PREF CACAULANDIA- Juros/M/A tM - Servidor,9584 - IPERON- PREF CACAULANDIA- Juros/M/A tM - Servidor
+9585,IPERON- PREF CACAULANDIA- Juros/M/A tM - Patronal,9585 - IPERON- PREF CACAULANDIA- Juros/M/A tM - Patronal
+9586,IPERON- PREF CAMPO NOVO- Servidor,9586 - IPERON- PREF CAMPO NOVO- Servidor
+9587,IPERON- PREF CAMPO NOVO- Patronal,9587 - IPERON- PREF CAMPO NOVO- Patronal
+9588,IPERON- PREF CAMPO NOVO- Outros,9588 - IPERON- PREF CAMPO NOVO- Outros
+9589,IPERON- PREF C NOVO- Juros/M /AtM - Servidor,9589 - IPERON- PREF C NOVO- Juros/M /AtM - Servidor
+9590,IPERON- PREF C NOVO- Juros/M /AtM - Patronal,9590 - IPERON- PREF C NOVO- Juros/M /AtM - Patronal
+9591,IPERON- PREF CANDEIAS DO JAMARI- Servidor,9591 - IPERON- PREF CANDEIAS DO JAMARI- Servidor
+9592,IPERON- PREF CANDEIAS DO JAMARI- Patronal,9592 - IPERON- PREF CANDEIAS DO JAMARI- Patronal
+9593,IPERON- PREF CANDEIAS DO JAMARI- Outros,9593 - IPERON- PREF CANDEIAS DO JAMARI- Outros
+9594,IPERON- PREF CANDEIAS- Juros/M /AtM - Servidor,9594 - IPERON- PREF CANDEIAS- Juros/M /AtM - Servidor
+9595,IPERON- PREF CANDEIAS- Juros/M /AtM - Patronal,9595 - IPERON- PREF CANDEIAS- Juros/M /AtM - Patronal
+9596,IPERON- PREF CASTANHEIRAS- Servidor,9596 - IPERON- PREF CASTANHEIRAS- Servidor
+9597,IPERON- PREF CASTANHEIRAS- Patronal,9597 - IPERON- PREF CASTANHEIRAS- Patronal
+9598,IPERON- PREF CASTANHEIRAS- Outros,9598 - IPERON- PREF CASTANHEIRAS- Outros
+9599,IPERON- PREF CASTANHEIRAS- Juros/M /AtM - Servidor,9599 - IPERON- PREF CASTANHEIRAS- Juros/M /AtM - Servidor
+9600,IPERON- PREF CASTANHEIRAS- Juros/M /AtM - Patronal,9600 - IPERON- PREF CASTANHEIRAS- Juros/M /AtM - Patronal
+9601,IPERON- PRE F CHUP INGUAIA- Servidor,9601 - IPERON- PRE F CHUP INGUAIA- Servidor
+9602,IPERON- PRE F CHUP INGUAIA- Patronal,9602 - IPERON- PRE F CHUP INGUAIA- Patronal
+9603,IPERON- PRE F CHUP INGUAIA- Outros,9603 - IPERON- PRE F CHUP INGUAIA- Outros
+9604,IPERON- PRE F CHUP INGUAIA- Juros/M /AtM - Servidor,9604 - IPERON- PRE F CHUP INGUAIA- Juros/M /AtM - Servidor
+9605,IPERON- PRE F CHUP INGUAIA- Juros/M /AtM - Patronal,9605 - IPERON- PRE F CHUP INGUAIA- Juros/M /AtM - Patronal
+9606,IPERON- PREF CUJUBIM- Servidor,9606 - IPERON- PREF CUJUBIM- Servidor
+9607,IPERON- PREF CUJUBIM- Patronal,9607 - IPERON- PREF CUJUBIM- Patronal
+9608,IPERON- PREF CUJUBIM- Outros,9608 - IPERON- PREF CUJUBIM- Outros
+9609,IPERON- PREF CUJUBIM- Juros/M /A tM- Servidor,9609 - IPERON- PREF CUJUBIM- Juros/M /A tM- Servidor
+9610,IPERON- PREF CUJUBIM- Juros/M/A tM - Patronal,9610 - IPERON- PREF CUJUBIM- Juros/M/A tM - Patronal
+9611,IPERON- PREF GOV JORGE TE IXE IRA- Servidor,9611 - IPERON- PREF GOV JORGE TE IXE IRA- Servidor
+9612,IPERON- PREF GOV JORGE TE IXE IRA- Patronal,9612 - IPERON- PREF GOV JORGE TE IXE IRA- Patronal
+9613,IPERON- PREF GOV JORGE TE IXE IRA- Outros,9613 - IPERON- PREF GOV JORGE TE IXE IRA- Outros
+9614,IPERON- PREF G J TEIXEIRA- Juros/M /AtM- Servidor,9614 - IPERON- PREF G J TEIXEIRA- Juros/M /AtM- Servidor
+9615,IPERON- PREF G J TEIXEIRA- Juros/M /AtM- Patronal,9615 - IPERON- PREF G J TEIXEIRA- Juros/M /AtM- Patronal
+9616,IPERON- PRE F ITAPOA D 'OESTE- Servidor,9616 - IPERON- PRE F ITAPOA D 'OESTE- Servidor
+9617,IPERON- PRE F ITAPOÃ D'OESTE- Patronal,9617 - IPERON- PRE F ITAPOÃ D'OESTE- Patronal
+9618,IPERON- PRE F ITAPOÃ D 'OESTE- Outros,9618 - IPERON- PRE F ITAPOÃ D 'OESTE- Outros
+9619,IPERON- PRE F ITAPOÃ- Juros/M /A tM - Servidor,9619 - IPERON- PRE F ITAPOÃ- Juros/M /A tM - Servidor
+9620,IPERON- PRE F ITAPOÃ- Juros/M /A tM - Patronal,9620 - IPERON- PRE F ITAPOÃ- Juros/M /A tM - Patronal
+9621,IPERON- PREF MINISTRO ANDREAZZA- Servidor,9621 - IPERON- PREF MINISTRO ANDREAZZA- Servidor
+9622,IPERON- PREF MINISTRO ANDREAZZA- Patronal,9622 - IPERON- PREF MINISTRO ANDREAZZA- Patronal
+9623,IPERON- PREF MINISTRO ANDREAZZA- Outros,9623 - IPERON- PREF MINISTRO ANDREAZZA- Outros
+9624,IPERON- PREF M ANDREAZZA- Juros/M /AtM- Servidor,9624 - IPERON- PREF M ANDREAZZA- Juros/M /AtM- Servidor
+9625,IPERON- PREF M ANDREAZZA- Juros/M /AtM- Patronal,9625 - IPERON- PREF M ANDREAZZA- Juros/M /AtM- Patronal
+9626,IPERON- PREF MIRANTE DA SERRA- Servidor,9626 - IPERON- PREF MIRANTE DA SERRA- Servidor
+9627,IPERON- PREF MIRANTE DA SERRA- Patronal,9627 - IPERON- PREF MIRANTE DA SERRA- Patronal
+9628,IPERON- PREF MIRANTE DA SERRA- Outros,9628 - IPERON- PREF MIRANTE DA SERRA- Outros
+9629,IPERON- PREF M DA SERRA- Juros/M/AtM- Servidor,9629 - IPERON- PREF M DA SERRA- Juros/M/AtM- Servidor
+9630,IPERON- PREF M DA SERRA- Juros/M/AtM- Patronal,9630 - IPERON- PREF M DA SERRA- Juros/M/AtM- Patronal
+9631,IPERON- PRE F MONTE NEGRO- Servidor,9631 - IPERON- PRE F MONTE NEGRO- Servidor
+9632,IPERON- PRE F MONTE NEGRO- Patronal,9632 - IPERON- PRE F MONTE NEGRO- Patronal
+9633,IPERON- PRE F MONTE NEGRO- Outros,9633 - IPERON- PRE F MONTE NEGRO- Outros
+9634,IPERON- PREF M NEGRO- Juros/M /A tM - Servidor,9634 - IPERON- PREF M NEGRO- Juros/M /A tM - Servidor
+9635,IPERON- PREF M NEGRO- Juros/M /A tM - Patronal,9635 - IPERON- PREF M NEGRO- Juros/M /A tM - Patronal
+9636,IPERON- PREF NOVA UNIÃO- Servidor,9636 - IPERON- PREF NOVA UNIÃO- Servidor
+9637,IPERON- PREF NOVA UNIÃO- Patronal,9637 - IPERON- PREF NOVA UNIÃO- Patronal
+9638,IPERON- PREF NOVA UNIÃO- Outros,9638 - IPERON- PREF NOVA UNIÃO- Outros
+9639,IPERON- PREF N UNIÃO- Juros/M/AtM- Servidor,9639 - IPERON- PREF N UNIÃO- Juros/M/AtM- Servidor
+9640,IPERON- PREF N UNIÃO- Juros/M/AtM- Patronal,9640 - IPERON- PREF N UNIÃO- Juros/M/AtM- Patronal
+9641,IPERON- PRE F PARECIS - Servidor,9641 - IPERON- PRE F PARECIS - Servidor
+9642,IPERON- PRE F PARECIS- Patronal,9642 - IPERON- PRE F PARECIS- Patronal
+9643,IPERON- PRE F PARECIS- Outros,9643 - IPERON- PRE F PARECIS- Outros
+9644,IPERON- PRE F PARECIS- Juros/M/AtM- Servidor,9644 - IPERON- PRE F PARECIS- Juros/M/AtM- Servidor
+9645,IPERON- PRE F PARECIS- Juros/M/AtM- Patronal,9645 - IPERON- PRE F PARECIS- Juros/M/AtM- Patronal
+9646,IPERON- PRE F P IMENTE IRA- Servidor,9646 - IPERON- PRE F P IMENTE IRA- Servidor
+9647,IPERON- PRE F P IMENTE IRA- Patronal,9647 - IPERON- PRE F P IMENTE IRA- Patronal
+9648,IPERON- PRE F P IMENTE IRA- Outros,9648 - IPERON- PRE F P IMENTE IRA- Outros
+9649,IPERON- PRE F P IMENTE IRA- Juros/M /AtM - Servidor,9649 - IPERON- PRE F P IMENTE IRA- Juros/M /AtM - Servidor
+9650,IPERON- PRE F P IMENTE IRA- Juros/M /AtM - Patronal,9650 - IPERON- PRE F P IMENTE IRA- Juros/M /AtM - Patronal
+9651,IPERON- PRE F PRIMAVERA RO- Servidor,9651 - IPERON- PRE F PRIMAVERA RO- Servidor
+9652,IPERON- PRE F PRIMAVERA RO- Patronal,9652 - IPERON- PRE F PRIMAVERA RO- Patronal
+9653,IPERON- PRE F PRIMAVERA RO- Outros,9653 - IPERON- PRE F PRIMAVERA RO- Outros
+9654,IPERON- PRE F PRIMAVERA- Juros/M/A tM - Servidor,9654 - IPERON- PRE F PRIMAVERA- Juros/M/A tM - Servidor
+9655,IPERON- PRE F PRIMAVERA- Juros/M/A tM - Patronal,9655 - IPERON- PRE F PRIMAVERA- Juros/M/A tM - Patronal
+9656,IPERON- PRE F SAO FELlPE- Servidor,9656 - IPERON- PRE F SAO FELlPE- Servidor
+9657,IPERON- PRE F SAO FELlPE- Patronal,9657 - IPERON- PRE F SAO FELlPE- Patronal
+9658,IPERON- PRE F SAO FELlPE- Outros,9658 - IPERON- PRE F SAO FELlPE- Outros
+9659,IPERON- PRE F S FELlPE- Juros/M /A tM - Servidor,9659 - IPERON- PRE F S FELlPE- Juros/M /A tM - Servidor
+9660,IPERON- PRE F S FELlPE- Juros/M /A tM - Patronal,9660 - IPERON- PRE F S FELlPE- Juros/M /A tM - Patronal
+9661,IPERON- PREF S FRANCISCO GUAPORE- Servidor,9661 - IPERON- PREF S FRANCISCO GUAPORE- Servidor
+9662,IPERON- PREF S FRANCISCO GUAPORE- Patronal,9662 - IPERON- PREF S FRANCISCO GUAPORE- Patronal
+9663,IPERON- PREF S FRANCISCO GUAPORE- Outros,9663 - IPERON- PREF S FRANCISCO GUAPORE- Outros
+9664,IPERON- PRE F S FRANCISCO- Juros/M /A tM - Servidor,9664 - IPERON- PRE F S FRANCISCO- Juros/M /A tM - Servidor
+9665,IPERON- PRE F S FRANCISCO- Juros/M /A tM - Patronal,9665 - IPERON- PRE F S FRANCISCO- Juros/M /A tM - Patronal
+9666,IPERON- PRE F SERINGUEIRAS- Servidor,9666 - IPERON- PRE F SERINGUEIRAS- Servidor
+9667,IPERON- PRE F SERINGUEIRAS- Patronal,9667 - IPERON- PRE F SERINGUEIRAS- Patronal
+9668,IPERON- PRE F SERINGUEIRAS- Outros,9668 - IPERON- PRE F SERINGUEIRAS- Outros
+9669,IPERON- PRE F SERINGUEIRAS- Juros/M/AtM- Servidor,9669 - IPERON- PRE F SERINGUEIRAS- Juros/M/AtM- Servidor
+9670,IPERON- PRE F SERINGUEIRAS- Juros/M/AtM- Patronal,9670 - IPERON- PRE F SERINGUEIRAS- Juros/M/AtM- Patronal
+9671,IPERON- PRE F TE IXEIROPOLlS- Servidor,9671 - IPERON- PRE F TE IXEIROPOLlS- Servidor
+9672,IPERON- PRE F TE IXEIROPOLlS- Patronal,9672 - IPERON- PRE F TE IXEIROPOLlS- Patronal
+9673,IPERON- PRE F TE IXEIROPOLlS- Outros,9673 - IPERON- PRE F TE IXEIROPOLlS- Outros
+9674,IPERON- PRE F TE IXEIROPOLlS- Juros/M/AtM- Servidor,9674 - IPERON- PRE F TE IXEIROPOLlS- Juros/M/AtM- Servidor
+9675,IPERON- PRE F TE IXEIROPOLlS- Juros/M/AtM- Patronal,9675 - IPERON- PRE F TE IXEIROPOLlS- Juros/M/AtM- Patronal
+9676,IPERON- PRE F THEOBROMA- Servidor,9676 - IPERON- PRE F THEOBROMA- Servidor
+9677,IPERON- PRE F THEOBROMA- Patronal,9677 - IPERON- PRE F THEOBROMA- Patronal
+9678,IPERON- PRE F THEOBROMA- Outros,9678 - IPERON- PRE F THEOBROMA- Outros
+9679,IPERON- PRE F THEOBROMA- Juros/M /AtM - Servidor,9679 - IPERON- PRE F THEOBROMA- Juros/M /AtM - Servidor
+9680,IPERON- PRE F THEOBROMA- Juros/M /AtM - Patronal,9680 - IPERON- PRE F THEOBROMA- Juros/M /AtM - Patronal
+9681,IPERON- PREF URUPA- Servidor,9681 - IPERON- PREF URUPA- Servidor
+9682,IPERON- PREF URUPA- Patronal,9682 - IPERON- PREF URUPA- Patronal
+9683,IPERON- PREF URUPA- Outros,9683 - IPERON- PREF URUPA- Outros
+9684,IPERON- PREF URUPA- Juros/M /A tM - Servidor,9684 - IPERON- PREF URUPA- Juros/M /A tM - Servidor
+9685,IPERON- PRE F URUPA- Juros/M/A tM - Patronal,9685 - IPERON- PRE F URUPA- Juros/M/A tM - Patronal
+9686,IPERON- PREF VALE DO ANARI- Servidor,9686 - IPERON- PREF VALE DO ANARI- Servidor
+9687,IPERON- PREF VALE DO ANARI- Patronal,9687 - IPERON- PREF VALE DO ANARI- Patronal
+9688,IPERON- PREF VALE DO ANARI- Outros,9688 - IPERON- PREF VALE DO ANARI- Outros
+9689,IPERON- PREF V DO ANARI- Juros/M /A tM - Servidor,9689 - IPERON- PREF V DO ANARI- Juros/M /A tM - Servidor
+9690,IPERON- PREF V DO ANARI- Juros/M /A tM - Patronal,9690 - IPERON- PREF V DO ANARI- Juros/M /A tM - Patronal
+9691,IPERON- PREF VALE DO PARAISO- Se rvidor,9691 - IPERON- PREF VALE DO PARAISO- Se rvidor
+9692,IPERON- PREF VALE DO PARAISO- Patronal,9692 - IPERON- PREF VALE DO PARAISO- Patronal
+9693,IPERON- PREF VALE DO PARAISO- Outros,9693 - IPERON- PREF VALE DO PARAISO- Outros
+9694,IPERON- PREF V DO PARAISO- Juros/M /A tM - Servidor,9694 - IPERON- PREF V DO PARAISO- Juros/M /A tM - Servidor
+9695,IPERON- PREF V DO PARAISO- Juros/M /A tM - Patronal,9695 - IPERON- PREF V DO PARAISO- Juros/M /A tM - Patronal
+9696,IPERON-INATIVO TJ- Se rvidor,9696 - IPERON-INATIVO TJ- Se rvidor
+9697,IPERON- INATIV O T J - Patronal,9697 - IPERON- INATIV O T J - Patronal
+9698,IPERON- INATIV O T J - Outros,9698 - IPERON- INATIV O T J - Outros
+9699,IPERON- INATIV O T J - Juros/M /AtM - Servidor,9699 - IPERON- INATIV O T J - Juros/M /AtM - Servidor
+9700,IPERON- INATIV O T J - Juros/M /AtM - Patronal,9700 - IPERON- INATIV O T J - Juros/M /AtM - Patronal
+9701,IPERON- INATIVO TCE- Servidor,9701 - IPERON- INATIVO TCE- Servidor
+9702,IPERON- INATIVO TCE- Patronal,9702 - IPERON- INATIVO TCE- Patronal
+9703,IPERON- INATIVO TCE- Outros,9703 - IPERON- INATIVO TCE- Outros
+9704,IPERON- INATIVO TCE- Juros/M /AtM- Servidor,9704 - IPERON- INATIVO TCE- Juros/M /AtM- Servidor
+9705,IPERON- INATIVO TCE- Juros/M /AtM- Patronal,9705 - IPERON- INATIVO TCE- Juros/M /AtM- Patronal
+9706,IPERON- INATIVO MP- Servidor,9706 - IPERON- INATIVO MP- Servidor
+9707,IPERON- INATIVO MP- Patronal,9707 - IPERON- INATIVO MP- Patronal
+9708,IPERON- INATIVO MP- Outros,9708 - IPERON- INATIVO MP- Outros
+9709,IPERON- INATIVO MP- Juros/M /AtM- Servidor,9709 - IPERON- INATIVO MP- Juros/M /AtM- Servidor
+9710,IPERON- INATIVO MP- Juros/M /AtM- Patronal,9710 - IPERON- INATIVO MP- Juros/M /AtM- Patronal
+9711,IPERON- INATIV O IPERON- Servidor,9711 - IPERON- INATIV O IPERON- Servidor
+9712,IPERON- INATIV O IPERON- Patronal,9712 - IPERON- INATIV O IPERON- Patronal
+9713,IPERON- INATIV O IPERON- Outros,9713 - IPERON- INATIV O IPERON- Outros
+9714,IPERON- INATIV O IPERON- Juros/M /A tM - Servidor,9714 - IPERON- INATIV O IPERON- Juros/M /A tM - Servidor
+9715,IPERON- INATIV O IPERON- Juros/M /A tM - Patronal,9715 - IPERON- INATIV O IPERON- Juros/M /A tM - Patronal
+9716,IPERON- PENSIONISTA T J - Servidor,9716 - IPERON- PENSIONISTA T J - Servidor
+9717,IPERON- PENSIONISTA TJ- Patronal,9717 - IPERON- PENSIONISTA TJ- Patronal
+9718,IPERON- PENSIONISTA TJ- Outros,9718 - IPERON- PENSIONISTA TJ- Outros
+9719,IPERON- PENS TJ- Juros/M /AtM- Servidor,9719 - IPERON- PENS TJ- Juros/M /AtM- Servidor
+9720,IPERON- PENS TJ- Juros/M /AtM- Patronal,9720 - IPERON- PENS TJ- Juros/M /AtM- Patronal
+9721,IPERON- PENSIONISTA MP- Servidor,9721 - IPERON- PENSIONISTA MP- Servidor
+9722,IPERON- PENSIONISTA MP- Patronal,9722 - IPERON- PENSIONISTA MP- Patronal
+9723,IPERON- PENSIONISTA MP- Outros,9723 - IPERON- PENSIONISTA MP- Outros
+9724,IPERON- PENS MP- Juros/M /A tM - Servidor,9724 - IPERON- PENS MP- Juros/M /A tM - Servidor
+9725,IPERON- PENS MP- Juros/M /A tM - Patronal,9725 - IPERON- PENS MP- Juros/M /A tM - Patronal
+9726,IPERON- PENSIONISTA TC- Servidor,9726 - IPERON- PENSIONISTA TC- Servidor
+9727,IPERON- PENSIONISTA TC- Patronal,9727 - IPERON- PENSIONISTA TC- Patronal
+9728,IPERON- PENSIONISTA TC- Outros,9728 - IPERON- PENSIONISTA TC- Outros
+9729,IPERON- PENS TC- Juros /M/AtM- Se rvidor,9729 - IPERON- PENS TC- Juros /M/AtM- Se rvidor
+9730,IPERON- PENS TC- Juros /M/AtM- Patronal,9730 - IPERON- PENS TC- Juros /M/AtM- Patronal
+9731,IPERON- PENSIONISTA IPERON CIVIL - Servidor,9731 - IPERON- PENSIONISTA IPERON CIVIL - Servidor
+9732,IPERON- PENSIONISTA IPERON CIVIL - Patronal,9732 - IPERON- PENSIONISTA IPERON CIVIL - Patronal
+9733,IPERON- PENSIONISTA IPERON CIVIL - Outros,9733 - IPERON- PENSIONISTA IPERON CIVIL - Outros
+9734,IPERON- PENS IPERON CIVIL- Juros/M /AtM- Servidor,9734 - IPERON- PENS IPERON CIVIL- Juros/M /AtM- Servidor
+9735,IPERON- PENS IPERON CIVIL- Juros/M /AtM- Patronal,9735 - IPERON- PENS IPERON CIVIL- Juros/M /AtM- Patronal
+9736,IPERON- PENSIONISTA IPERON MILlTAR- Servidor,9736 - IPERON- PENSIONISTA IPERON MILlTAR- Servidor
+9737,IPERON- PENSIONISTA IPERON MILlTAR- Patronal,9737 - IPERON- PENSIONISTA IPERON MILlTAR- Patronal
+9738,IPERON- PENSIONISTA IPERON MILlTAR- Outros,9738 - IPERON- PENSIONISTA IPERON MILlTAR- Outros
+9739,IPERON- PENS IPERON MILlT - Juros/M /AtM- Servidor,9739 - IPERON- PENS IPERON MILlT - Juros/M /AtM- Servidor
+9740,IPERON- PENS IPERON MILlT - Juros/M /AtM- Patronal,9740 - IPERON- PENS IPERON MILlT - Juros/M /AtM- Patronal
+9741,IPERON- INATIVO IPERON CIVIL- Servidor,9741 - IPERON- INATIVO IPERON CIVIL- Servidor
+9742,IPERON- INATIVO IPERON CIVIL- Patronal,9742 - IPERON- INATIVO IPERON CIVIL- Patronal
+9743,IPERON- INATIVO IPERON CIVIL- Outros,9743 - IPERON- INATIVO IPERON CIVIL- Outros
+9744,IPERON- INAT IPERON CIV IL - Juros/M /AtM - Se rvidor,9744 - IPERON- INAT IPERON CIV IL - Juros/M /AtM - Se rvidor
+9745,IPERON- INAT IPERON CIV IL - Juros/M /AtM - Patronal,9745 - IPERON- INAT IPERON CIV IL - Juros/M /AtM - Patronal
+9746,IPERON- INATIV O IPERON MILlTAR- Servidor,9746 - IPERON- INATIV O IPERON MILlTAR- Servidor
+9747,IPERON- INATIV O IPERON MILlTAR- Patronal,9747 - IPERON- INATIV O IPERON MILlTAR- Patronal
+9748,IPERON- INATIV O IPERON MILlTAR- Outros,9748 - IPERON- INATIV O IPERON MILlTAR- Outros
+9749,IPERON- INAT IPERON MILlT - Juros/M /AtM - Se rvidor,9749 - IPERON- INAT IPERON MILlT - Juros/M /AtM - Se rvidor
+9750,IPERON- INAT IPERON MILlT - Juros/M /AtM - Patronal,9750 - IPERON- INAT IPERON MILlT - Juros/M /AtM - Patronal
+9751,IPERON- SESDEC MILlTAR- Servidor,9751 - IPERON- SESDEC MILlTAR- Servidor
+9752,IPERON- SESDEC MILlTAR- Patronal,9752 - IPERON- SESDEC MILlTAR- Patronal
+9753,IPERON- SESDEC MILlTAR- Outros,9753 - IPERON- SESDEC MILlTAR- Outros
+9754,IPERON- SESDEC MILlTAR- Lic s/venc- Servidor,9754 - IPERON- SESDEC MILlTAR- Lic s/venc- Servidor
+9755,IPERON- SESDEC MILlTAR- Lic s/venc- Patronal,9755 - IPERON- SESDEC MILlTAR- Lic s/venc- Patronal
+9756,IPERON- SESDEC MILlTAR- Juros/M /A tM - Servidor,9756 - IPERON- SESDEC MILlTAR- Juros/M /A tM - Servidor
+9757,IPERON- SESDEC MILlTAR- Juros/M /A tM - Patronal,9757 - IPERON- SESDEC MILlTAR- Juros/M /A tM - Patronal
+9901,FUMRESPOM- Serviço preventivo de sego pública interno,9901 - FUMRESPOM- Serviço preventivo de sego pública interno
+9902,FUMRESPOM- Serviço preventivo de sego pública externo,9902 - FUMRESPOM- Serviço preventivo de sego pública externo
+9903,FUMRESPOM- Serviço vigilância eletrônica,9903 - FUMRESPOM- Serviço vigilância eletrônica
+9904,FUMRESPOM- Permanência veículos automotores em pátio,9904 - FUMRESPOM- Permanência veículos automotores em pátio
+9905,"FUMRESPOM- Cursos , palestras, estágios ou demonstrações","9905 - FUMRESPOM- Cursos , palestras, estágios ou demonstrações"
+9906,FUMRESPOM- Hospedagem em estabelecimentos da PM,9906 - FUMRESPOM- Hospedagem em estabelecimentos da PM
+9907,FUMRESPOM- Uso espaço ou equipamento desportivo da PM,9907 - FUMRESPOM- Uso espaço ou equipamento desportivo da PM
+9908,FUMRESPOM- Uso estandes de tiro e bases de selva da PM,9908 - FUMRESPOM- Uso estandes de tiro e bases de selva da PM
+9909,FUMRESPOM- Uso de imóveis da PM,9909 - FUMRESPOM- Uso de imóveis da PM
+9910,FUMRESPOM- Guincho - remoção de veículos,9910 - FUMRESPOM- Guincho - remoção de veículos
+9911,"FUMRESPOM- Certidão, atestado, cópia de boletim","9911 - FUMRESPOM- Certidão, atestado, cópia de boletim"
+9912,FUMRESPOM- Apresentação banda de música,9912 - FUMRESPOM- Apresentação banda de música
+9913,FUMRESPOM- Adestramento de animais,9913 - FUMRESPOM- Adestramento de animais
+9914,FUMRESPOM- Atendimento veterinário,9914 - FUMRESPOM- Atendimento veterinário
+9915,FUMRESPOM- Segunda via cédula identidade militar,9915 - FUMRESPOM- Segunda via cédula identidade militar
+9916,FUMRESPOM- Parecer técnico,9916 - FUMRESPOM- Parecer técnico
+9917,FUMRESPOM- Inscrição em concurso público PM,9917 - FUMRESPOM- Inscrição em concurso público PM
+9918,"FUMRESPOM- Segurança em reintegração, imissão e manutenção judicial de posse","9918 - FUMRESPOM- Segurança em reintegração, imissão e manutenção judicial de posse"
+9919,"FUMRESPOM- Convênios, acordos ou contratos","9919 - FUMRESPOM- Convênios, acordos ou contratos"
+9920,FUMRESPOM- Indenização danos patrimoniais,9920 - FUMRESPOM- Indenização danos patrimoniais
+9921,FUMRESPOM- Multa judicial destinada à PM,9921 - FUMRESPOM- Multa judicial destinada à PM
+9922,FUMRESPOM- Alienação bens próprios,9922 - FUMRESPOM- Alienação bens próprios
+9923,FUMRESPOM- Alienação bens apreendidos ou doados,9923 - FUMRESPOM- Alienação bens apreendidos ou doados
+0001,Alta Floresta do Oeste,0001 - Alta Floresta do Oeste
+0002,Ariquemes,0002 - Ariquemes
+0003,Cabixi,0003 - Cabixi
+0004,Cacoal,0004 - Cacoal
+0005,Cerejeiras,0005 - Cerejeiras
+0006,Colorado do Oeste,0006 - Colorado do Oeste
+0007,Curumbiara,0007 - Curumbiara
+0008,Costa Marques,0008 - Costa Marques
+0009,Espigão do Oeste,0009 - Espigão do Oeste
+0010,Guajará-Mirim,0010 - Guajará-Mirim
+0011,Jarú,0011 - Jarú
+0012,Ji-Paraná,0012 - Ji-Paraná
+0013,Machadinho do Oeste,0013 - Machadinho do Oeste
+0014,Nova Brasilandia do Oeste,0014 - Nova Brasilandia do Oeste
+0015,Ouro Preto do Oeste,0015 - Ouro Preto do Oeste
+0018,Pimenta Bueno,0018 - Pimenta Bueno
+0020,Porto Velho,0020 - Porto Velho
+0025,Presidente Medice,0025 - Presidente Medice
+0026,Rio Crespo,0026 - Rio Crespo
+0028,Rolim de Moura,0028 - Rolim de Moura
+0029,Santa Luzia do Oeste,0029 - Santa Luzia do Oeste
+0030,Vilhena,0030 - Vilhena
+0032,São Miguel do Guaporé,0032 - São Miguel do Guaporé
+0033,Nova Mamoré,0033 - Nova Mamoré
+0034,Alvorada do Oeste,0034 - Alvorada do Oeste
+0037,Alto Alegre dos Parecis,0037 - Alto Alegre dos Parecis
+0040,Alto Paraíso,0040 - Alto Paraíso
+0045,Buritis,0045 - Buritis
+0050,Novo Horizonte do Oeste,0050 - Novo Horizonte do Oeste
+0060,Cacaulandia,0060 - Cacaulandia
+0070,Campo Novo de Rondônia,0070 - Campo Novo de Rondônia
+0080,Candeias,0080 - Candeias
+0090,Castanheiras,0090 - Castanheiras
+0092,Chupinguaia,0092 - Chupinguaia
+0094,Cujubim,0094 - Cujubim
+0100,Governador Jorge Teixeira,0100 - Governador Jorge Teixeira
+0110,Itapoã do Oeste,0110 - Itapoã do Oeste
+0120,Ministro Andreazza,0120 - Ministro Andreazza
+0130,Mirante da Serra,0130 - Mirante da Serra
+0140,Monte Negro,0140 - Monte Negro
+0143,Nova União,0143 - Nova União
+0145,Parecis,0145 - Parecis
+0146,Pimenteira do Oeste,0146 - Pimenteira do Oeste
+0147,Primavera de Rondônia,0147 - Primavera de Rondônia
+0148,São Felipe do Oeste,0148 - São Felipe do Oeste
+0149,São Francisco do Guaporé,0149 - São Francisco do Guaporé
+0150,Seringueiras,0150 - Seringueiras
+0155,Teixeiropolis,0155 - Teixeiropolis
+0160,Theobroma,0160 - Theobroma
+0170,Urupá,0170 - Urupá
+0175,Vale do Anari,0175 - Vale do Anari
+0180,Vale do Paraíso,0180 - Vale do Paraíso
+8538,DETRAN - Credenciamento de Em presas para Regravação/Gravação Chassi/Motor,8538 - DETRAN - Credenciamento de Em presas para Regravação/Gravação Chassi/Motor
+8539,DETRAN - Credenciamento de Fábrica de Placas,8539 - DETRAN - Credenciamento de Fábrica de Placas
+8540,DETRAN - Credenciamento de Despachantes,8540 - DETRAN - Credenciamento de Despachantes
+8541,DETRAN - Devolução de Processos Pendentes Tramitados por Despachante,8541 - DETRAN - Devolução de Processos Pendentes Tramitados por Despachante
+8542,DETRAN - Escolha de Número de Placa,8542 - DETRAN - Escolha de Número de Placa
+8543,DETRAN - Renovação de Credenciamento de Financeiras para Acesso ao SNG,8543 - DETRAN - Renovação de Credenciamento de Financeiras para Acesso ao SNG
+8544,DETRAN - Renovação de Credenciamento de Fábrica de Placas,8544 - DETRAN - Renovação de Credenciamento de Fábrica de Placas
+8545,DETRAN - Renovação de Credenciamento de Empresa para Regravação/Gravação Chassi/Motor,8545 - DETRAN - Renovação de Credenciamento de Empresa para Regravação/Gravação Chassi/Motor
+8546,DETRAN - Renovação de Credenciamento de Despachante,8546 - DETRAN - Renovação de Credenciamento de Despachante
+8547,DETRAN - Renovação de Credenciamento de Concessionária para Fins Diversos,8547 - DETRAN - Renovação de Credenciamento de Concessionária para Fins Diversos
+8548,DETRAN - Autorização para Confecção de Placas e Tarjetas,8548 - DETRAN - Autorização para Confecção de Placas e Tarjetas
+8549,DETRAN - Emissão de CRV,8549 - DETRAN - Emissão de CRV
+8550,DETRAN - Lacre de Placa e Tarjeta,8550 - DETRAN - Lacre de Placa e Tarjeta
+8551,DETRAN - Guincho,8551 - DETRAN - Guincho
+8552,DETRAN - Permanência e Diárias,8552 - DETRAN - Permanência e Diárias
+8553,DETRAN - Vistoria,8553 - DETRAN - Vistoria
+8554,DETRAN - 1ª Habilitação com uma Categoria,8554 - DETRAN - 1ª Habilitação com uma Categoria
+8555,DETRAN - 1ª Habilitação com duas Categorias,8555 - DETRAN - 1ª Habilitação com duas Categorias
+8556,DETRAN - Renovação de CNH/ACC,8556 - DETRAN - Renovação de CNH/ACC
+8557,DETRAN - CNH Definitiva,8557 - DETRAN - CNH Definitiva
+8558,DETRAN - Microficha e Documento Digitalizado,8558 - DETRAN - Microficha e Documento Digitalizado
+8559,DETRAN - Alteração de Dados CNH,8559 - DETRAN - Alteração de Dados CNH
+8560,DETRAN - Adição de Categoria,8560 - DETRAN - Adição de Categoria
+8562,DETRAN - 2ª Via de CNH/PPD/ACC/PID,8562 - DETRAN - 2ª Via de CNH/PPD/ACC/PID
+8563,DETRAN - Transferência de PPD/CNH de outra UF,8563 - DETRAN - Transferência de PPD/CNH de outra UF
+8564,DETRAN - Registro de Estrangeiro,8564 - DETRAN - Registro de Estrangeiro
+8565,DETRAN - PID (Permissão Internacional para Dirigir),8565 - DETRAN - PID (Permissão Internacional para Dirigir)
+8566,DETRAN - Reabertura de Processo Prescrito,8566 - DETRAN - Reabertura de Processo Prescrito
+8567,DETRAN - Transferência de Processo entre Municípios,8567 - DETRAN - Transferência de Processo entre Municípios
+8568,DETRAN - Devolução de CNH Apreendida,8568 - DETRAN - Devolução de CNH Apreendida
+8569,DETRAN - Certidão de nada Consta e P rontuário de CNH,8569 - DETRAN - Certidão de nada Consta e P rontuário de CNH
+8570,DETRAN - Exame Teórico de Reciclagem/ Atualização/ Reteste,8570 - DETRAN - Exame Teórico de Reciclagem/ Atualização/ Reteste
+8571,DETRAN - Serviço Complementar - Ausente Exam e Teórico ou Prático,8571 - DETRAN - Serviço Complementar - Ausente Exam e Teórico ou Prático
+8572,DETRAN - Exame Prático - Reteste por Categoria,8572 - DETRAN - Exame Prático - Reteste por Categoria
+8573,DETRAN - Credenciamento de Centro de Formação de Condutores - CFC,8573 - DETRAN - Credenciamento de Centro de Formação de Condutores - CFC
+8574,DETRAN - Renovação de Credenciamento de Centro de Formação de Condutores - CFC,8574 - DETRAN - Renovação de Credenciamento de Centro de Formação de Condutores - CFC
+8575,DETRAN - Expedição de Carteira/Registro de Diretor - CFC,8575 - DETRAN - Expedição de Carteira/Registro de Diretor - CFC
+8576,DETRAN - Expedição de Carteira/Registro de Instrutor - CFC,8576 - DETRAN - Expedição de Carteira/Registro de Instrutor - CFC
+8577,DETRAN - Expedição de 2ª via de Carteira de Diretor de CFC,8577 - DETRAN - Expedição de 2ª via de Carteira de Diretor de CFC
+8578,DETRAN - Expedição de 2ª via de Carteira de Instrutor de CFC,8578 - DETRAN - Expedição de 2ª via de Carteira de Instrutor de CFC
+8579,DETRAN - Credenciamento de Psicólogo Perito Examinador de Trânsito,8579 - DETRAN - Credenciamento de Psicólogo Perito Examinador de Trânsito
+8580,DETRAN - Credenciamento de Médico Perito Examinador de Trânsito,8580 - DETRAN - Credenciamento de Médico Perito Examinador de Trânsito
+8581,DETRAN - Renovação de Credenciamento de Médico,8581 - DETRAN - Renovação de Credenciamento de Médico
+8582,DETRAN - Renovação de Credenciamento de Psicólogo,8582 - DETRAN - Renovação de Credenciamento de Psicólogo
+8583,DETRAN - Inscrição para Curso de Formação Especializado de Trânsito,8583 - DETRAN - Inscrição para Curso de Formação Especializado de Trânsito
+8584,DETRAN - Expedição de 2ª via de Certificado e outros Serviços,8584 - DETRAN - Expedição de 2ª via de Certificado e outros Serviços
+8585,DETRAN - Inscrição para Curso de Formação de Diretores de CFC,8585 - DETRAN - Inscrição para Curso de Formação de Diretores de CFC
+8586,DETRAN - Inscrição para Curso de Formação de Instrutores de CFC,8586 - DETRAN - Inscrição para Curso de Formação de Instrutores de CFC
+8587,DETRAN - Inscrição para Curso de Formação de Examinador de Trânsito,8587 - DETRAN - Inscrição para Curso de Formação de Examinador de Trânsito
+JARU,001,JARU - 001
+8825,DEVOP - CONST. CIVIL - TAXA DE CÓPIA DE QUALQUER DOCUMENTO PRODUZIDO PELO ÓRGÃO E REQUERIDO PÓR TERCEIROS,8825 - DEVOP - CONST. CIVIL - TAXA DE CÓPIA DE QUALQUER DOCUMENTO PRODUZIDO PELO ÓRGÃO E REQUERIDO PÓR TERCEIROS
+8826,DEVOP - CONST. CIVIL - TAXA DE CÓPIA DE DESENHO (PROJETO) OU CÓPIA HELIOGRÁFICA POR M²,8826 - DEVOP - CONST. CIVIL - TAXA DE CÓPIA DE DESENHO (PROJETO) OU CÓPIA HELIOGRÁFICA POR M²
+8827,DEVOP - CONST. CIVIL - TAXA DE MAPA RODOVIÁRIO A CORES,8827 - DEVOP - CONST. CIVIL - TAXA DE MAPA RODOVIÁRIO A CORES
+8828,DEVOP- CONST CIVIL- TAXA DE TERMO DE RECEBIMENTO DEFINITIVO DE OBRAS,8828 - DEVOP- CONST CIVIL- TAXA DE TERMO DE RECEBIMENTO DEFINITIVO DE OBRAS
+8829,DEVOP - CONST. CIVIL - TAXA DE EDITAL DE CARTA CONVITE,8829 - DEVOP - CONST. CIVIL - TAXA DE EDITAL DE CARTA CONVITE
+8830,DEVOP - CONST. CIVIL - TAXA DE IMPETRAÇÃO DE RECURSOS DIVERSOS,8830 - DEVOP - CONST. CIVIL - TAXA DE IMPETRAÇÃO DE RECURSOS DIVERSOS
+8831,DEVOP - CONST. CIVIL - TAXA DE CERTIDÃO DE APROVAÇÃO DE LOCALIDADE DE POSTOS E DERIVADOS DE PETRÓLEO,8831 - DEVOP - CONST. CIVIL - TAXA DE CERTIDÃO DE APROVAÇÃO DE LOCALIDADE DE POSTOS E DERIVADOS DE PETRÓLEO
+8832,DEVOP - CONST. CIVIL - TAXA DE EXPEDIENTE,8832 - DEVOP - CONST. CIVIL - TAXA DE EXPEDIENTE
+8841,DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO ATÉ 10 VEÍCULOS,8841 - DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO ATÉ 10 VEÍCULOS
+8842,DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO DE 11 A 30 VEÍCULOS,8842 - DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO DE 11 A 30 VEÍCULOS
+8843,DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO DE 31 A 50 VEÍCULOS,8843 - DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO DE 31 A 50 VEÍCULOS
+8844,DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO DE 51 A 100 VEÍCULOS,8844 - DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO DE 51 A 100 VEÍCULOS
+8845,DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO DE 101 A 200 VEÍCULOS,8845 - DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO DE 101 A 200 VEÍCULOS
+8846,DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO ACIMA DE 200 VEÍCULOS,8846 - DEVOP - TAXA DE REGISTRO DE EMPRESA E RENOVAÇÃO ACIMA DE 200 VEÍCULOS
+8863,DEVOP - OBRAS ROD.- TAXA DE ATESTADO DE REGULARIDADE DE OBRAS/SERVIÇOS,8863 - DEVOP - OBRAS ROD.- TAXA DE ATESTADO DE REGULARIDADE DE OBRAS/SERVIÇOS
+8864,DEVOP - OBRAS ROD.- TAXA DE CÓPIA DE QUALQUER DOCUMENTO PRODUZIDO PELO ÓRGÃO E REQUERIDO POR TERCEIROS,8864 - DEVOP - OBRAS ROD.- TAXA DE CÓPIA DE QUALQUER DOCUMENTO PRODUZIDO PELO ÓRGÃO E REQUERIDO POR TERCEIROS
+8865,DEVOP - OBRAS ROD.- TAXA DE MAPA RODOVIÁRIO A CORES,8865 - DEVOP - OBRAS ROD.- TAXA DE MAPA RODOVIÁRIO A CORES
+8866,DEVOP - OBRAS ROD.- TAXA DE TERMO DE RECEBIMENTO DEFINITIVO DE OBRAS,8866 - DEVOP - OBRAS ROD.- TAXA DE TERMO DE RECEBIMENTO DEFINITIVO DE OBRAS
+8867,DEVOP - OBRAS ROD.- TAXA DE EXPEDIENTE,8867 - DEVOP - OBRAS ROD.- TAXA DE EXPEDIENTE
+9522,IPERON-PREF PIMENTEIRA EMPREGADO,9522 - IPERON-PREF PIMENTEIRA EMPREGADO
+5143,Parcelamento de Divida Ativa de ICMS,5143 - Parcelamento de Divida Ativa de ICMS
+5526,FECOEP – Divida ativa Fundo de combate à pobreza,5526 - FECOEP – Divida ativa Fundo de combate à pobreza
+5521,FIDER - Divida Ativa Fundo de Desenvolvimento Industrial de Rondônia,5521 - FIDER - Divida Ativa Fundo de Desenvolvimento Industrial de Rondônia
+5522,FITHA - Divida Ativa Fundo para a Infra-Estrutura de Transporte e Habitação,5522 - FITHA - Divida Ativa Fundo para a Infra-Estrutura de Transporte e Habitação
